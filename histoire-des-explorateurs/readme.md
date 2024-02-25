@@ -220,6 +220,7 @@ Certains dirigeants des Explorateurs commencèrent à utiliser le terme « Chris
 
 *Structures du CPA*
 L'idée d'un ministère des Explorateurs est en plein essor. Des groupes de travail et des commissions sont établis pour répondre à la demande croissante de matériel sur la mise en place du concept de CPA. Le CPA a maintenant une nouvelle structure basée sur l'âge : 
+
 |||
 |-|-|
 | ENFANTS | 6-7 ans |
@@ -230,40 +231,45 @@ L'idée d'un ministère des Explorateurs est en plein essor. Des groupes de trav
 Le ministère du CPA veut également proposer un programme pour les jeunes adultes de l'âge de 16 ans et plus. Les groupe des Scouts a pour but d'intégrer aussi les assistants/adjoints. 
 
 *Niveaux de classe :*
-
-GEFAHRTE (COMPAGNON) De 8 ans et plus Badge bleu
-TRAPPER (TRAPPEUR) De 10 ans et plus  Badge rouge
-KUNDSCHAFTER (ECLAIREUR) De 12 ans et plus Badge jaune
-RANGER4 De 14 ans et plus Badge rouge-bleu 
-GUIDE De 16 ans et plus Badge bleu-jaune 
-CHEF-GUIDE De 18 ans et plus Badge bleu-rouge-jaune 
+||||
+|-|-|-|
+| GEFAHRTE (COMPAGNON) | De 8 ans et plus | Badge bleu |
+| TRAPPER (TRAPPEUR) | De 10 ans et plus  | Badge rouge |
+| KUNDSCHAFTER (ECLAIREUR) | De 12 ans et plus | Badge jaune |
+| RANGER4 | De 14 ans et plus | Badge rouge-bleu |
+| GUIDE | De 16 ans et plus | Badge bleu-jaune |
+| CHEF-GUIDE D| e 18 ans et plus | Badge bleu-rouge-jaune |
 
 Fourragères et domaines de responsabilité : 
 
-FOURRAGERE BLANCHE Directeur de la jeunesse de la Division / Conférence Générale 
-OR Directeur de la jeunesse de l'Union 
-ARGENT Directeur de la jeunesse de la fédération 
-ARGENT/NOIR Coordinateur du CPA de la fédération 
-ROUGE Directeur de groupe 
-ROUGE/NOIR Directeur de groupe adjoint 
-BLEU Responsable 
-BLEU/NOIR Responsable adjoint 
-VERT Adjoint ayant des responsabilités spécifiques 
+|||
+|-|-|
+| FOURRAGERE BLANCHE | Directeur de la jeunesse de la Division / Conférence Générale |
+| OR Directeur de la jeunesse de l'Union |
+| ARGENT | Directeur de la jeunesse de la fédération |
+| ARGENT/NOIR | Coordinateur du CPA de la fédération |
+| ROUGE | Directeur de groupe |
+| ROUGE/NOIR | Directeur de groupe adjoint |
+| BLEU | Responsable |
+| BLEU/NOIR | Responsable adjoint |
+| VERT | Adjoint ayant des responsabilités spécifiques |
 
-Inde 
+### Inde 
 
 L'Inde rapporte un bref résumé de ses « premières fois » dans le monde des Explorateurs : 
 
-1934 Premier chef-Camarade investi en Inde 
-1944 Premier camp des jeunes organisé en Inde à Mussoorie 
-1953 Premier camp de formation en leadership pour les jeunes, à Pune Organisation du premier club des Explorateurs, à Bangalore 
-1970 Première foire des Explorateurs, à Lasalgaon 
-1974 Premier camporée des Explorateurs à l'échelle de la Division, dans l'État de Karnataka. 
-1978 Deuxième camporée à l'échelle de la Division, à Bangalore 
-1979 Premier terrain de camping en possession de la Division à Machilipatnam 
-1995 Troisième camporée à l'échelle de la Division à Hyderabad 
+|||
+|-|-|
+| 1934 | Premier chef-Camarade investi en Inde |
+| 1944 | Premier camp des jeunes organisé en Inde à Mussoorie |
+| 1953 | Premier camp de formation en leadership pour les jeunes, à Pune Organisation du premier club des Explorateurs, à Bangalore |
+| 1970 | Première foire des Explorateurs, à Lasalgaon |
+| 1974 | Premier camporée des Explorateurs à l'échelle de la Division, dans l'État de Karnataka. |
+| 1978 | Deuxième camporée à l'échelle de la Division, à Bangalore |
+| 1979 | Premier terrain de camping en possession de la Division à Machilipatnam |
+| 1995 | Troisième camporée à l'échelle de la Division à Hyderabad |
 
-Histoire des Explorateurs du Kenya
+### Histoire des Explorateurs du Kenya
 
 Selon Stanley Nyachieng'a Barini, directeur de la jeunesse de longue date des fédérations du Sud du Kenya et de Nyamira, le Pasteur Jacobs de la Conférence Générale introduisit les classes progressives au Kenya en 1962 pendant un séminaire de la jeunesse, au Centre de la jeunesse adventiste de Watamu. 
 
@@ -281,7 +287,7 @@ Le club des Explorateurs est on ne peut plus vivant au Kenya ; il a maintenant d
 
 Les individus qui contribuerent de fanon exceptionnelle a la croissance du mouvement des Explorateurs au Kenya sont : Nathan Oyiengo, Alison Moronya, David Wanjekeche, David Mbwaro, Blasious Ruguri, Peter Geoge Odero, Meshach Muga, Festus Njagi, Joses Sipakati, Jared Oyier, Johnson Othoo, Kenneth Bushnell, Arthur Bushnell, Gilbert Ojwang, Baya, Caesar Wamalika, John Ngunyi, Fares Ogillo, Musyoka Paul Muasya, Abiud Ekirapa, Maina Jackson, Mang'aa David, Tonny Ndiema, James Machoka, Mouko Ezekiel, Marundu Alfred, Russel Otieno, Willie Ngugi, Washington Ngesa, Fred Ogoi, et Paul Kiage entre autres. 
 
-Lettonie 
+### Lettonie 
 
 En 1994, nous trouvâmes une annonce au sujet du camporée de la Division transeuropéenne (TED en anglais) en Suède. Nous n'avions aucune idée de ce qu'était le club des Explorateurs, mais nous avions seulement compris que c'était quelque chose pour les adolescents. Comme la Suède n'était pas loin de la Lettonie, nous décidâmes de participer à cet événement. Nous prîmes 20 adolescents de nos classes de l'École du sabbat et nous rendirent à Kapparbo en Suède. Là-bas, je compris qu'il s'agissait d'une organisation merveilleuse et influente pour les adolescents. J'étais sûre que nous avions aussi besoin d'un club des Explorateurs en Lettonie. 
 
@@ -295,14 +301,14 @@ En 1998, nous fondâmes le premier club des Explorateurs à Riga. Quatre années
 Équipe de coordination De gauche à droite : . Juris Pasternaks, Astra Kukulite, Dzintars Vaivods, Inta Jakosborne 
 Le premier camp d'Explorateurs en Lettonie eut lieu à Cesis, en 1998. En juillet de la même année, nous nous rendirent au camporée de la Division transeuropéenne en Norvège, où nous rencontrèrent Robert Holbrook. Un développement rapide commença alors. L'été suivant, il visita notre deuxième camporée et nous organisâmes notre première session de formation du person-nel. Puis, plus tard, il envoya John Swafford avec l'équipe de la fédération de Géorgie-Cumberland. En peu de temps, ils aidèrent à organiser le travail avec les Explorateurs pour qu'il fût plus efficace. Nous sommes très reconnaissants à John et à son équipe pour l'excellent travail qu'ils ont accompli en Lettonie. 
 
-AJV-Scouting (Scoutisme de l'Alliance de la Jeunesse Adventiste) aux Pays-Bas 
+### AJV-Scouting (Scoutisme de l'Alliance de la Jeunesse Adventiste) aux Pays-Bas 
 
 En 1965, le responsable national de la jeunesse, Karel van Oossanen, avec l'aide du responsable des jeunes Piet van Drongelen, introduisit le scoutisme dans l'église adventiste des Pays-Bas. Jusqu'à cette époque, des tentatives pour incor-porer le programme MV fourni par la Conférence Générale dans l'église adven-tiste néerlandaise avaient été entreprises, mais elles ne s'étaient pas avérées très fructueuses. D'une certaine manière, le programme MV ne semblait pas s'adapter à la culture néerlandaise. Lorsque Karel van Oossanen réalisa que le programme MV présentait des similitudes avec le programme Boy Scouts of America, il décida qu'il serait intéressant d'essayer d'adapter cette idée dans un contexte néerlandais et de développer un programme de scoutisme adven-tiste basé sur celui offert par Scouting Nederland, l'organisation de scoutisme néerlandaise. En outre, il découvrit qu'il était courant aux Pays-Bas que des groupes de scouts liés à d'autres églises soient associés à Scouting Nederland. C'est la raison pour laquelle il décida de commencer une expérience dans l'église adventiste néerlandaise avec AJV-Scouting (Scoutisme de l'Alliance de la Jeunesse Adventiste), afin de découvrir si le scoutisme pouvait vrai-ment être utilisé comme une partie du programme de la jeunesse adventiste néerlandaise.
 
 Malgré le fait que certains membres de l'église se soient opposés au scoutisme en raison de ses éléments militaires, le premier camporée national fut un succès. Au cours des années qui suivirent, il sembla absolument possible d'obtenir un mélange approprié d'éléments scouts et d'éléments religieux (adventistes). De nombreux jeunes membres rejoignirent l'association et AJV-Scouting devint une partie substantielle du département de la jeunesse adventiste néerlandaise. 
 Pour cette raison, les néerlandais participent au programme de scoutisme plutôt qu'au programme des Explorateurs. Il existe des différences intéres-santes entre les scouts néerlandais et les Explorateurs. Par exemple, vous pourrez reconnaître les scouts néerlandais à leurs uniformes, leurs différents foulards et badges. Une caractéristique intéressante du scoutisme adventiste néerlandais est que chaque club porte le nom d'un pionnier adventiste. Bien sûr, la plupart des différences sont liées à l'aspect extérieur ; vous pouvez être sûr que les scouts adventistes néerlandais chérissent les mêmes croyances et la même mission que les Explorateurs. Après tout, de même que les Explorateurs, les scouts néerlandais font partie de la jeunesse adventiste. 
 
-Roumanie 
+### Roumanie 
 
 Il est difficile de croire qu'avant 1990, très peu de personnes de l'église rouma-ine avait entendu parler des Explorateurs. Cela est dû au fait que, sous le régime communiste, parallèlement aux libertés générales, toute activité ecclé-siastique pour les enfants et les jeunes était interdite, y compris l'École du sabbat. Avant l'installation du régime communiste en 1947, l'Église roumaine était à peu près en phase avec l'Église mondiale en ce qui concernait le travail avec les jeunes, y compris les classes progressives qui firent ensuite partie du programme des Explorateurs. Tout cela fut néanmoins oublié pendant les longues et sombres années du communisme. 
 
@@ -319,11 +325,12 @@ L'efficacité de la formation s'en trouva grandement améliorée, comme en témo
 En 1996, les directeurs de la jeunesse de toutes les fédérations et de l'Union participèrent à un séminaire des Chefs-Guides organisé en Suisse. Cet événement convainquit tous les directeurs de la jeunesse de soutenir pleine-ment les Explorateurs. De plus, Cristian Modan, le dirigeant national des Explorateurs fut invité à rendre visite à la fédération de Géorgie-Cumberland aux États-Unis et à y suivre une formation. Il rencontra leur conseil exécu-tif des Explorateurs et eut l'opportunité de poser des questions sur des sujets peu clairs pour les Roumains. Il termina sa formation, fut investi en tant que Chef-Guide, et avec la vision de ce qu'était vraiment le club des Explorateurs, il rentra chez lui et ajusta quelque peu le programme. (Plus tard, Cristian suivit également un programme de maîtrise en éducation en plein air à la Southern Adventist University). Cette nouvelle vision fut mise en pratique lors d'un camp national organisé en 1996 à Codlea, auquel participèrent la plupart des dirigeants Explorateurs en activité (86 dirigeants). 
 
 La période suivante fut marquée par la croissance tant en ce qui concerne le nombre de membres que le développement des ressources. Pour ce qui est du nombre, voici quelques chiffres à titre indicatif : 
-
-ÉTÉ 1995 120 Explorateurs 
-JANVIER 1996 800 Explorateurs 
-JANVIER 1997 2800 Explorateurs 
-OCTOBRE 1998 Plus de 5000 Explorateurs 
+|||
+|-|-|
+| ÉTÉ 1995 | 120 Explorateurs |
+| JANVIER 1996 | 800 Explorateurs |
+| JANVIER 1997 | 2800 Explorateurs |
+| OCTOBRE 1998 | Plus de 5000 Explorateurs |
 
 En quatre années, de 1995 à 1998, il y eut 39 camps d'Explorateurs, avec 60 à 210 participants pour chacun d'entre eux.
 
@@ -361,7 +368,7 @@ L'organisation des Explorateurs fut aussi largement reconnue pour son rôle dans
 
 Ces grands projets n'étaient en fait que quelques-uns parmi des centaines d'autres projets de mission (éducatifs, écologiques, sociaux et évangéliques) semblables à ceux que les Explorateurs mènent dans le monde entier. Mais les Explorateurs roumains pensent que ce n'est qu'un début, car le Seigneur a promis que « celui qui croit en moi fera aussi les oeuvres que je fais, et il en fera de plus grandes » ( Jean 14.12, LSG), et ils sont donc, comme le dit leur salutation : « Pour le Seigneur, toujours prêts ». 
 
-Afrique du Sud 
+### Afrique du Sud 
 
 La fédération de Bonne-Espérance était aupara-vant connue sous le nom de Cape Field. Le club des Explorateurs de la fédération de Bonne-Espérance fut créé en janvier 1965. Sept ans auparavant, en 1958, le premier cours de formation des Explorateurs fut organisé sous la direction du pasteur J. Human. La soeur Kohen, épouse du pasteur A. Kohen, fut l'une des premières à terminer le cours dans la banlieue d'Athlone. 
 
@@ -379,7 +386,7 @@ Le Retreat Club, sous la direction de Barbara E. Africa, était le plus grand cl
 
 En 1974, la fédération comptait 42 clubs et un peu plus de 1200 Explorateurs. La première fanfare venait également d'être organisée. À cette époque, deux fédérations étaient en activité, l'une à Johannesbourg, et l'autre incluant la péninsule du Cap et Boland. 
 
-Suède 
+### Suède 
 
 Selon les premiers documents disponibles, Rueben Engstrom, immigrant suédois vivant aux États-Unis d'Amérique, retourna en Suède en 1929 et commença à travailler avec les jeunes. Il devint directeur de la jeunesse de l'Est de l'Union nordique (Suède et parties de la Finlande parlant le suédois) de 1935 à 1938. Vers 1935, Rueben publia la première brochure sur le ministère des juniors en Suède. Le premier guide des Jeunes Missionnaires Volontaires ( JMV) parut en 1938, traduit de l'anglais et adapté aux besoins suédois. Ce manuel comprenait les deux classes des JMV « Vanner » et « Ledsagare » et les deux niveaux des Camarades appelés « Kamrater » et « Master Ledare ». En 1938, l'ancien Engstrom retourna aux États-Unis où il travailla jusqu'à sa retraite à la fin des années 1950. Le pasteur David Karlsson suivit les traces d'Engstrom en tant que directeur de la jeunesse de l'Union de 1937 à 1944. Il écrivit dans ses mémoires qu'en 1939, lors d'un congrès de la jeunesse tenu au Danemark, dix jeunes Suédois furent investis en tant que Chefs-Guides. Il y eut une note de tristesse au congrès, lorsque plusieurs délégués de Pologne durent partir plus tôt car l'Allemagne avait envahi leur pays ; cela marqua le début de la Seconde Guerre mondiale. 
 
@@ -389,7 +396,7 @@ Les Explorateurs, tels qu'on les connaît aujourd'hui, furent introduits en Suè
 
 En 1971, la Division organisa son premier camporée à l'échelle de la Divi-sion au camp suédois de Vasterang, avec le pasteur Sundqvist désormais à sa tête, en tant que directeur de la jeunesse de la Division. Aujourd'hui, il y a environ 200 Explorateurs en Suède. Chaque année, une demi-douzaine de dirigeants obtient le titre de Chef-Guide. Leurs activités, leurs distinctions et leurs camps peuvent tous être trouvés sur leur site Web à l'adresse suivante : adventist.se 
 
-Trinidad et Tobago 
+### Trinidad et Tobago 
 
 Trinidad et Tobago, constitué de deux îles de la mer des Caraïbes, avait été activement impliqué dans les Sociétés des JMV dès leurs débuts avec des programmes complets dans les années 30 et tout au long des années 40. Les membres portaient même les uniformes officiels, vert pour les filles et kaki pour les garçons, comme montrés dans les anciens manuels. Il fut donc facile de faire la transition pour démarrer les clubs des Explorateurs dès que l'idée fut avancée. 
 
@@ -397,60 +404,55 @@ Cette opportunité se manifesta en février 1954 quand Laurence Skinner visita l
 
 En 1972, le pays reçut la visite d'un grand nombre d'Explorateurs afro-amér-icains qui campaient sur le terrain de camping de la fédération locale à Macqueripe. L'avantage inattendu de cette visite fut la formation de la première troupe de tambours de Trinidad. Un soir, on fit pression sur les membres du comité d'église de San Juan pour qu'ils récoltent des fonds pour les instru-ments qui furent alors achetés des mains des Explorateurs en visite. Cela ajouta une toute nouvelle dimension au club des Explorateurs sur la nation insulaire, particulièrement car cela se déroula sous les yeux du public. 
 
-Autres pays européens 
+### Autres pays européens 
 
-Suisse 
+***Suisse***
 
 La Suisse allemande débuta avec les JMV au printemps de l'année 1939 sous la direction de deux personnes nommées Buser et Baltisberger. Ils utilisaient le terme « Wâchter » et aujourd'hui, ils utilisent l'abréviation ADWA pour « Adventwacht », ce qui signifie ceux qui recherchent l'Avent. 
 L'histoire des Explorateurs 55 
 
-Italie 
+***Italie***
 
 Les italiens se nomment « Esploratori » (Éclaireurs), comme le font de nombreux pays européens. Ils démarrèrent en 1972 à l'initiative d'Ugo Visani et aujourd'hui, ils sont également affilés aux Scouts. 
 
-Autriche 
+***Autriche***
 
 Josef Stôger démarra le club des Explorateurs en 1960, en utilisant le même nom que les suisses : « Wâchter ». La première formation du personnel eut lieu en 1967, sous la direction de Walter Schultschik. 
 
-Portugal 
+***Portugal***
 
 Le premier club des Explorateurs fut lancé en novembre 1970, sous le nom « Desbravadores » comme il était d'usage dans les autres pays parlant le portugais. 
 
-Bulgarie 
+***Bulgarie***
 
 Un des pays ayant introduit le plus récemment le club des Explorateurs, dès la disparition du rideau de fer. Jose Figols, directeur de la jeunesse de la Division, proposa l'idée lors d'un séminaire de formation en mai 1995. Ils utilisent le nom bulgare « Izsledovateli ». 
 
-France 
+***France***
 
 Commença en 1939 en tant que JMV avec comme dirigeant Sylvain Meyer. On les appelait des « Cadets ». 
 
-Engagement des Explorateurs dans différentes langues : 
+### Engagement des Explorateurs dans différentes langues : 
 
-Anglais 
-
+***Anglais***
 By the Grace of God, 
 I will be pure, kind and true. 
 I will keep the Pathfinder Law. 
 I will be a servant of God and a friend to man. 
 
-Espagnol 
-
+***Espagnol***
 Por la Gracia de Dios, 
 Seré puro, bondadoso y leal. 
 Guardaré la ley del Conquistador. 
 Seré un siervo de Dios y amigo de la humanidad. 
 
-Portugais 
-
+***Portugais***
 Pela Graça de Deus, 
 Serei puro, bondoso, e leal. 
 Guardarei a lei do Desbravador. 
 Serei servo de Deus e amigo de todos. 
 
-Français (Québec) 
-
+***Français (Québec)***
 NOTRE ENGAGEMENT 
-
 Par la grâce de Dieu, 
 Je serai pur, 
 aimable et sincère. 
@@ -458,38 +460,33 @@ J'observerai la loi des Explorateurs.
 Je serai un serviteur de 
 Dieu et un ami de tous. 
 
-Kiswahili 
-
+***Kiswahili***
 AHADI YA WATAFUTA NJIA 
 KWA NEEMA YA MUNGU, 
 NITAKUWA MPOLE, MWAMINIFU NA SAFI.
 NITASHIKA SHERIA ZA CHAMA CHA WATAFUTA NJIA. 
 NITA-KUWA MTUMISHI WA MUNGU NA RAFIKI WA WANADAMU. 
 
-Allemand 
-
+***Allemand***
 Durch Godes Gnade will ich 
 in Gedanken, Wortenund und Taten rein sein 
 freundlichund aufrichtig sein und die ADWA-Regeln beachten 
 Gott dienen und ein Freund der Menschen sein. 
 
-Roumain 
-
+***Roumain***
 Prin harul lui Dumnezeu, voi fi un serv al Sau, 
 ii voi iubi pe oameni si voi ocroti natura. 
 
-Bahasa de Malaisie 
-
+***Bahasa de Malaisie***
 Ikrar Pathfinder 
 Degan anugerah Allah-
 Saya akan menjadi suci,menjadi pengasih dan menjadi benar. 
 Saya akan berpegang teguh kepada undang-undang pathfinder. 
 Saya akan menjadi pelayan Allah dan menjadi sahabat kepada manusia. 
 
-Loi des Explorateurs dans différentes langues :
+### Loi des Explorateurs dans différentes langues :
 
-Anglais 
-
+***Anglais***
 The Pathfinder Law Is for Me to 
 Keep the Morning Watch. 
 Do my honest part. 
@@ -500,8 +497,7 @@ Walk softly in the sanctuary.
 Keep a song in my heart, and 
 Go on God's errands. 
 
-Espagnol 
-
+***Espagnol***
 La Ley me manda 
 Guardar la Devoci6n Matutina 
 Cumplir con la parte que me corresponde 
@@ -511,8 +507,7 @@ Ser cortés y obediente
 Andar con reverencia en la casa de Dios 
 Mantener una canci6n en mi corazén e ir adonde Dios mande. 
 
-Portugais 
-
+***Portugais***
 A Lei do Desbravador ordena-me: 
 Observar a devoçâo matinal 
 Cumprir fielmente a parte que me corresponde 
@@ -523,10 +518,8 @@ Andar com reverência na Casa de Deus
 Ter sempre um cântico no coraçâo 
 Ir aonde Deus mandat.
 
-Français 
-
+***Français***
 NOTRE LOI 
-
 Observer la Vigile Matinale. 
 Être honnête et véridique. 
 Prendre soin de mon corps. 
@@ -536,8 +529,7 @@ Révérer le lieu de culte.
 Être toujours joyeux. 
 Être toujours au service de Dieu. 
 
-Kiswahili 
-
+***Kiswahili***
 SHERIA YA WATAFUTA NJIA : 
 KUSHIKA SOMO LA ASUBUHI NA KUOMBA 
 KUFANYA BIDII KATIKA MAMBO YOTE 
@@ -548,8 +540,7 @@ KUHESHIMU NYUMBA YA MUNGU
 KUFURAHI DAIMA 
 KUFANYA KAZI YA MUNGU 
 
-Allemand 
-
+***Allemand***
 Regeln: 
 Ich will 
 tâglich Morgenandacht machen 
@@ -561,8 +552,7 @@ mich in Gotteshaus ehrfurchtsvoll verhalten
 mir "ein Lied im Herzen bewahren" 
 Gottes Auftrâge ausführen 
 
-Roumain 
-
+***Roumain***
 Voi respecta Legea Exploratorului care pentru mine este: 
 Sa studiez si sa ma rog zilnic. 
 Sa-mi indeplinesc constüncios datoria. 
@@ -573,8 +563,7 @@ Sa ma port cuvüncios in Casa Domnului.
 Sa am intotdeauna un cantec in Mima. 
 Sa merg oriunde ma trimite Dumnezeu. 
 
-Bahasa de Malaisie 
-
+***Bahasa de Malaisie***
 Undang-Undang Pathfinder bagi saya adalah-
 Memelihara kebaktian pagi. 
 Menjalankan tugas saya dengan Jujur. 
@@ -585,12 +574,11 @@ Berjalan perlahan-lahan dalam kaabah.
 Menyimpan satu nyanyian dalam hati saya. 
 Melaksanakan suruhan bagi Allah. 
 
-Chant pour les filles Explorateurs 
+### Chant pour les filles Explorateurs 
 
 Un point historique intéressant datant de 1930 : ce club des Explorateurs débuta dans le foyer de Theron Johnston. La famille avait un chant spécial écrit par Ione Martin pour les filles. Il fut mis sur l'air de « O, Columbia the Gem of the Ocean. » Les mots le composant incluaient tous les éléments de l'Engagement et de la Loi des JMV : 
 
-Strophe: 
-
+***Strophe:***
 Oh, the Pathfinder girls of Santa Ana, 
 [Oh, les filles Explorateurs de Santa Ana,] 
 Are Pure and Kind and True. 
@@ -608,8 +596,7 @@ Remembering to do well their dut
 They choose all the words that they say. 
 [Elles choisissent tous les mots qu'elles disent.]
 
-Refrain: 
-
+***Refrain:***
 Then hurrah, for the Pathfinder girls, 
 [Alors hourra, pour les filles Explorateurs,] 
 Three cheers for their leaders too. 
@@ -619,8 +606,7 @@ Vict'ry's flag will help unfurl,
 If you counsel with a Pathfinder girl. 
 [Si tu prends conseil auprès d'une fille Explorateur.] 
 
-Strophe: 
-
+***Strophe:***
 They walk softly in the Sanctuary, 
 [Elles marchent doucement dans le Sanctuaire,] 
 They Keep a Song in their heart. 
@@ -638,14 +624,14 @@ If you are to know if this is true,
 Just watch for their big, pleasant smile. 
 [Regarde juste leur grand et agréable sourire.] 
 
-Répéter refrain 
+***Répéter refrain***
 
-Évènements marquants des clubs des Explorateurs 
+### Évènements marquants des clubs des Explorateurs 
 
 En mission pour Dieu 
 
 1890 Our Little Friend [Notre petit ami] est publié pour la première fois. 
-1907 Morning Watch [Vigile matinale] est publié. 
+*1907* Morning Watch [Vigile matinale] est publié. 
 1908 Le Programme de lecture pour les Juniors débute. 
 1909 Les Sociétés des Jeunes Volontaires Missionnaires sont organisées. 
 1911 Début des clubs « Takoma Indians » et « Woodland Clan & Pals » 
