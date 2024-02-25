@@ -64,6 +64,8 @@ Le directeur de la jeunesse Lawrence Skinner démarra un club dans la fédérati
 
 ### 1938 
 
+Il y eut un club dans la fédération du Sud-Est de la Californie à Loma Linda, en Californie ; le troisième enregistré dans cette fédération.
+
 ## 3. Les Explorateurs en force (1946-Présent) 
 
 ### 1946-1950 
@@ -185,40 +187,49 @@ John Youngberg était un jeune missionnaire travaillant au sud du Chili. Avant d
 ### Allemagne 
 
 *Les débuts à Solingen* 
+
 Les débuts du ministère des Explorateurs dans l'Église adventiste du septième jour en Allemagne remontent à l'année 1948. Ce ministère de l'Église adventiste vit le jour à Solingen, ville dans laquelle la première église adventiste fut fondée. Sous la direction de Karl-Heinz Machenbach, les Explorateurs qui demeurait à cet endroit devinrent actifs. En 1951, le premier groupe des Explorateurs, les « Advent-Pathfinders » [Explorateurs de l'Avent] (Pfadlinders est le terme allemand utilisé par les Scouts, d'où le mot composé) fut établit. Ils portaient une chemise de couleur kaki, un foulard bleu avec des bandes jaunes (ultérieurement, il serait marron-vert), et le chapeau des Explorateurs. Machenbach voulait proposer une manière significative d'occuper le temps libre des enfants de l'après-guerre et de les diriger spirituellement. 
 
 Les autorités de l'Église adventiste réagirent négativement à cette idée. Elles voulaient éviter toute allusion au national-socialisme et à la jeunesse hitlérienne. A cette époque, le ministère des Explorateurs laissa une impression plutôt désagréable sur l'Église adventiste qui se limite toujours à la région de Solingen. 
 
 Les demandes d'aide financière adressées aux départements de la jeunesse du gouvernement local ne sont pas approuvées par l'Église adventiste. L'idée d'un ministère des Explorateurs à Solingen n'est pas soutenue par l'Église adven-tiste, même si beaucoup de ses idées seront utilisées ultérieurement dans le ministère de la jeunesse. Vers 1970, le groupe des Explorateurs de Solingen fut restructuré et renommé : « Freie Pfadfinder Solingen » [Explorateurs libres de Solingen], Tribu « Grafen von Berg » [Comtes de Berg] . Dans leur détresse, les Explorateurs de Solingen choisirent de rejoindre l'Union des Explorateurs suisses. Les dirigeants de « Freie Pfadfinder Solingen » s'éduquèrent en participant avec succès au cours Gilwell, la plus haute distinction pour un Explorateur. En 1972, le « Freie Pfadfinder Solingen » rejoignit le VCP3 du Nord du Rhin en raison du manque d'intégration et de soutien pour l'idée d'un ministère des Explorateurs dans le ministère de la jeunesse adventiste. 
 
-*Les débuts à plus grande échelle*
+***Les débuts à plus grande échelle***
+
 Dès 1948, il y eut également des évènements pour les enfants et les jeunes dans l'Église adventiste. Parallèlement aux Explorateurs à Solingen, ainsi qu'aux Unions d'Explorateurs (scouts) à l'extérieur de l'église, l'Église adven-tiste développa un programme du ministère de la jeunesse intitulé Jungfrau De [jeunes amis]. Pour symboliser l'indépendance de ce programme, le nom « Jungfreunde » fut introduit et établi. 
 
 Il existe des rapports sur la première retraite « Jungfreunde » à Freudenstadt en 1957. Au cours des années qui suivirent, d'autres premiers groupes « Jung-freunde » furent établis au sud de la Bavière, à Munich (1959 : Manfred Peters) et à Augsbourg (1960: Gerhard Môgerlein). Le premier camp fut également organisé en Bavière sur le mont Lusen. Les participants furent les groupes de Munich et d'Augsbourg. 
 
-*Ministère des Explorateurs de l'Église adventiste à ses débuts*
+***Ministère des Explorateurs de l'Église adventiste à ses débuts***
+
 En 1960, le directeur de la jeunesse de la Division d'Europe centrale (désintégrée en 1972) Eberhard Fischdick entra en contact avec des aumôniers militaires américains de l'Église adventiste localisés en Allemagne et devint le premier allemand à atteindre le rang de Chef-Guide. 
 
 Vers 1962, quelques administrateurs adventistes allemands commencèrent à accepter l'idée d'un ministère des Explorateurs. K.H. Machenbach, fort de ses années d'expérience à Solingen, devint la première force motrice de cette idée. Il eut l'idée d'une carte de membre et d'un ordre des Explorateurs. Cependant, l'Église adopta le terme « Jungfreunde » pour ce ministère. Le but était de maintenir une distance avec les autres Explorateurs (Scouts). Apparemment, il est impossible pour une petite dénomination de s'impliquer dans le même type de ministère que les grandes églises. Ultérieurement, les idées de Machenbach furent accueillies et des cartes de membres furent émises. 
 
-*Créer des structures*
+***Créer des structures***
+
 En 1963, l'Union du Sud de l'Allemagne et l'Union de l'Ouest de l'Allemagne approfondirent l'idée d'organiser et de créer des structures pour le ministère « Jungfreunde ». Les expériences précédentes, basées sur des initiatives individuelles, furent les bienvenues et les idées qui en résultèrent furent acceptées. Le placement organisationnel de « Jungfreunde » en tant que partie du ministère de la jeunesse adventiste fut défini, et les règles en matière d'uni-forme furent introduites (chemise bleu-grise, foulard jaune avec un nœud) ; ce qui ne fut pas accepté à grande échelle avant la fin des années 60. Le système de badge fut standardisé. Pour la première fois, du matériel de formation fut émis et un concept de formation fut créé. En 1964, le premier séminaire pour les dirigeants de « Jungfreunde » de l'Union de l'Ouest de l'Allemagne eut lieu à Mühlenrahmede. (La formation standardisée et automatique des dirigeants est un prérequis pour obtenir un financement public.) Le premier camp « Jungfreunde » dans la région de l'Union du Sud de l'Allemagne eut lieu à Tannenlohe en 1968. 
 
 *Planification de base*
+
 L'importance du ministère « Jungfreunde » pour l'église fut finalement reconnu. Il fut demandé aux étudiants faisant des études pastorales de participer à la formation des Chefs-Guides pendant leur cursus. Pour la toute première fois, des dirigeants de groupe venus de toute l'Allemagne se rencontrèrent pour le premier séminaire des dirigeants de « Jungfreunde » à Mühlenrahmede. 
 
 Le ministère connut son premier essor et beaucoup participèrent au séminaire de formation pour les directeurs de groupe de l'Union du Sud de l'Allemagne qui suivit en 1971. Les deux Unions s'accordèrent pour travailler ensemble étroitement et elles ont continué ainsi depuis. Au cours des années suivantes, les deux Unions publièrent un guide, fruit de leur partenariat, pour « Jungfreunde » et ses dirigeants. Après la restructuration des divisions, le premier camporée international de la Division eurafricaine eut lieu à Malcesine, en Italie, en 1977, avec une forte participation allemande. 
 
 *Axé sur la croissance*
+
 En 1963, l'idée du ministère des Explorateurs dans le ministère de la jeunesse adventiste fut revisitée. Walter Waniek et Toni Oblaski mirent au point un nouvel axe de travail, le concept des Explorateurs axé sur la croissance. Ce concept mènerait plus tard au besoin de changer le nom « Jungfreunde » en « Christliche Pfadfinder » [Explorateurs chrétiens]. 
 
 *Approches dans l'ancienne République Démocratique allemande (Allemagne de l'Est)*
+
 A l'occasion d'une rencontre de jeunes pasteurs dans l'Union d'Allemagne de l'Est (ODV) à Waldpark en 1986, le directeur de la jeunesse de la Division eurafricaine, John Graz, fit un compte-rendu du concept d'Explorateurs utilisé par la Conférence Générale. A partir de 1989, les jeunes pasteurs tentèrent d'adapter ce concept aux possibilités de la République démocra-tique allemande. Peu de temps après, les premiers séminaires de formation pour le ministère des Explorateurs virent le jour. Ces premiers essais pour établir un ministère des Explorateurs en RDA eurent du succès. En raison de l'interdiction venant du gouvernement de la RDA d'utiliser le terme « Pathfinder » [Explorateurs], les groupes se firent appeler « Waldlaufer » (Ranger). Leur uniforme consistait en une chemise verte et un foulard jaune. Officiellement, la première organisation des Explorateurs de la RDA fut fondée après la chute du mur en Allemagne de l'Est sous le nom de « Christliche Pfadfinder der Adventjugend » (Explorateurs chrétiens de la jeunesse adventiste). Ce nouveau nom pouvait être employé sans restriction. 
 
 *Un nouveau nom : CPA*
+
 Certains dirigeants des Explorateurs commencèrent à utiliser le terme « Christliche Pfadfinder der Adventjugend » (Explorateurs chrétiens de la jeunesse adventiste) pour leurs groupes situés dans d'autres parties de l'Allemagne. L'abréviation CPA fut introduite. Sur la base d'une résolution par la commission des Explorateurs de 1992, le terme « Jungfreunde » fut remplacé par CPA pour tout ce qui se rapportait aux Explorateurs. 
 
 *Structures du CPA*
+
 L'idée d'un ministère des Explorateurs est en plein essor. Des groupes de travail et des commissions sont établis pour répondre à la demande croissante de matériel sur la mise en place du concept de CPA. Le CPA a maintenant une nouvelle structure basée sur l'âge : 
 
 |||
