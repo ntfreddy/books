@@ -1,3 +1,7 @@
+# Héritage de l'Église
+
+Un guide qui met en reliefs des point importants sur l'Église Adventiste du Septième Jour
+
 # L'Église Chrétienne à travers les âges 
 
 ## <ins>L'Église de l'Ancien Testament</ins>
