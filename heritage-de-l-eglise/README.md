@@ -1,4 +1,4 @@
-# L' Église Chrétienne à travers les âges 
+# L'Église Chrétienne à travers les âges 
 
 ## <ins>L'Église de l'Ancien Testament</ins>
 
