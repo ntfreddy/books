@@ -445,144 +445,251 @@ Commença en 1939 en tant que JMV avec comme dirigeant Sylvain Meyer. On les app
 ## Engagement des Explorateurs dans différentes langues : 
 
 ***Anglais***
+
 By the Grace of God, 
+
 I will be pure, kind and true. 
+
 I will keep the Pathfinder Law. 
+
 I will be a servant of God and a friend to man. 
 
 ***Espagnol***
+
 Por la Gracia de Dios, 
+
 Seré puro, bondadoso y leal. 
+
 Guardaré la ley del Conquistador. 
+
 Seré un siervo de Dios y amigo de la humanidad. 
 
 ***Portugais***
+
 Pela Graça de Deus, 
+
 Serei puro, bondoso, e leal. 
+
 Guardarei a lei do Desbravador. 
+
 Serei servo de Deus e amigo de todos. 
 
 ***Français (Québec)***
+
 NOTRE ENGAGEMENT 
+
 Par la grâce de Dieu, 
+
 Je serai pur, 
+
 aimable et sincère. 
+
 J'observerai la loi des Explorateurs. 
+
 Je serai un serviteur de 
+
 Dieu et un ami de tous. 
 
 ***Kiswahili***
+
 AHADI YA WATAFUTA NJIA 
+
 KWA NEEMA YA MUNGU, 
+
 NITAKUWA MPOLE, MWAMINIFU NA SAFI.
+
 NITASHIKA SHERIA ZA CHAMA CHA WATAFUTA NJIA. 
+
 NITA-KUWA MTUMISHI WA MUNGU NA RAFIKI WA WANADAMU. 
 
 ***Allemand***
+
 Durch Godes Gnade will ich 
+
 in Gedanken, Wortenund und Taten rein sein 
+
 freundlichund aufrichtig sein und die ADWA-Regeln beachten 
+
 Gott dienen und ein Freund der Menschen sein. 
 
 ***Roumain***
+
 Prin harul lui Dumnezeu, voi fi un serv al Sau, 
+
 ii voi iubi pe oameni si voi ocroti natura. 
 
 ***Bahasa de Malaisie***
+
 Ikrar Pathfinder 
+
 Degan anugerah Allah-
+
 Saya akan menjadi suci,menjadi pengasih dan menjadi benar. 
+
 Saya akan berpegang teguh kepada undang-undang pathfinder. 
+
 Saya akan menjadi pelayan Allah dan menjadi sahabat kepada manusia. 
 
 ## Loi des Explorateurs dans différentes langues :
 
 ***Anglais***
+
 The Pathfinder Law Is for Me to 
+
 Keep the Morning Watch. 
+
 Do my honest part. 
+
 Care for my body. 
+
 Keep a level eye. 
+
 Be courteous and obedient. 
+
 Walk softly in the sanctuary. 
+
 Keep a song in my heart, and 
+
 Go on God's errands. 
 
 ***Espagnol***
+
 La Ley me manda 
+
 Guardar la Devoci6n Matutina 
+
 Cumplir con la parte que me corresponde 
+
 Cuidar de mi cuerpo 
+
 Mantener una mirada franca 
+
 Ser cortés y obediente 
+
 Andar con reverencia en la casa de Dios 
+
 Mantener una canci6n en mi corazén e ir adonde Dios mande. 
 
 ***Portugais***
+
 A Lei do Desbravador ordena-me: 
+
 Observar a devoçâo matinal 
+
 Cumprir fielmente a parte que me corresponde 
+
 Cuidar do meu corpo 
+
 Manter a consciência limpa 
+
 Ser cortês e obediente 
+
 Andar com reverência na Casa de Deus 
+
 Ter sempre um cântico no coraçâo 
+
 Ir aonde Deus mandat.
 
 ***Français***
+
 NOTRE LOI 
-Observer la Vigile Matinale. 
+
+Observer la Vigile Matinale.
+
 Être honnête et véridique. 
+
 Prendre soin de mon corps. 
+
 Regarder tous bien en face. 
+
 Être courtois et obéissant. 
+
 Révérer le lieu de culte. 
+
 Être toujours joyeux. 
+
 Être toujours au service de Dieu. 
 
 ***Kiswahili***
+
 SHERIA YA WATAFUTA NJIA : 
+
 KUSHIKA SOMO LA ASUBUHI NA KUOMBA 
+
 KUFANYA BIDII KATIKA MAMBO YOTE 
+
 KUTUNZA MWILI WANGU 
+
 KUWA NA MOYO SAFI 
+
 KUWA NA ADABU NA UTII 
+
 KUHESHIMU NYUMBA YA MUNGU 
+
 KUFURAHI DAIMA 
+
 KUFANYA KAZI YA MUNGU 
 
 ***Allemand***
+
 Regeln: 
+
 Ich will 
+
 tâglich Morgenandacht machen 
+
 meine Aufgaben ehrlich erfüllen 
+
 auf meinen Kiirper achten 
+
 mir ein reines Gewissen bewahren 
+
 heiflich und gehorsam sein 
+
 mich in Gotteshaus ehrfurchtsvoll verhalten 
+
 mir "ein Lied im Herzen bewahren" 
+
 Gottes Auftrâge ausführen 
 
 ***Roumain***
+
 Voi respecta Legea Exploratorului care pentru mine este: 
+
 Sa studiez si sa ma rog zilnic. 
+
 Sa-mi indeplinesc constüncios datoria. 
+
 Sa am grija de corpul meu. 
+
 Sa-mi pastrez constiinta curata. 
+
 Sa fiu politicos si ascultator. 
+
 Sa ma port cuvüncios in Casa Domnului. 
-Sa am intotdeauna un cantec in Mima. 
+
+Sa am intotdeauna un cantec in Mima.
+
 Sa merg oriunde ma trimite Dumnezeu. 
 
 ***Bahasa de Malaisie***
+
 Undang-Undang Pathfinder bagi saya adalah-
+
 Memelihara kebaktian pagi. 
+
 Menjalankan tugas saya dengan Jujur. 
+
 Menjaga tubuh saya dengan sempurna. 
+
 Menetapkan pandangan mata. 
+
 Bersopan dan menurut. 
+
 Berjalan perlahan-lahan dalam kaabah. 
+
 Menyimpan satu nyanyian dalam hati saya. 
+
 Melaksanakan suruhan bagi Allah. 
 
 ## Chant pour les filles Explorateurs 
@@ -590,49 +697,89 @@ Melaksanakan suruhan bagi Allah.
 Un point historique intéressant datant de 1930 : ce club des Explorateurs débuta dans le foyer de Theron Johnston. La famille avait un chant spécial écrit par Ione Martin pour les filles. Il fut mis sur l'air de « O, Columbia the Gem of the Ocean. » Les mots le composant incluaient tous les éléments de l'Engagement et de la Loi des JMV : 
 
 ***Strophe:***
+
 Oh, the Pathfinder girls of Santa Ana, 
+
 [Oh, les filles Explorateurs de Santa Ana,] 
+
 Are Pure and Kind and True. 
+
 [Sont pures, gentilles et vraies.] 
+
 They keep the Junior Law, 
+
 [Elles respectent la Loi des juniors] 
+
 The Pledge and Morning Watch, too. 
+
 [L'Engagement et la Vigile matinale aussi.] 
+
 They are honest and care for their bodies, 
+
 [Elles sont honnêtes et prennent soin de leur corps,] 
+
 Obedient and courteous are they. 
+
 [Obéissantes et courtoises sont-elles.] 
+
 Remembering to do well their dut 
+
 [Elles n'oublient pas de bien faire leur devoir,] 
+
 They choose all the words that they say. 
+
 [Elles choisissent tous les mots qu'elles disent.]
 
 ***Refrain:***
+
 Then hurrah, for the Pathfinder girls, 
+
 [Alors hourra, pour les filles Explorateurs,] 
+
 Three cheers for their leaders too. 
+
 [Trois hourras pour leurs chefs aussi.] 
+
 Vict'ry's flag will help unfurl, 
+
 [Le drapeau de la v'ctoire aidera à se déployer,] 
+
 If you counsel with a Pathfinder girl. 
+
 [Si tu prends conseil auprès d'une fille Explorateur.] 
 
 ***Strophe:***
+
 They walk softly in the Sanctuary, 
+
 [Elles marchent doucement dans le Sanctuaire,] 
+
 They Keep a Song in their heart. 
+
 [Elles gardent une chanson dans le coeur.] 
+
 They're happy and stand ever ready 
+
 [Elles sont heureuses et sont toujours prêtes] 
+
 In God's work to have a part. 
+
 [Pour, dans l'oeuvre de Dieu, avoir un rôle.] 
+
 They have something they'll give to you, 
+
 [Elles ont quelque chose à te donner,] 
+
 It is free and makes shorter the mile. 
+
 [C'est gratuit et cela raccourcit la distance.] 
+
 If you are to know if this is true, 
+
 [Si tu veux savoir si c'est vrai,] 
+
 Just watch for their big, pleasant smile. 
+
 [Regarde juste leur grand et agréable sourire.] 
 
 ***Répéter refrain***
@@ -642,94 +789,179 @@ Just watch for their big, pleasant smile.
 En mission pour Dieu 
 
 1890 Our Little Friend [Notre petit ami] est publié pour la première fois. 
+
 *1907* Morning Watch [Vigile matinale] est publié. 
+
 1908 Le Programme de lecture pour les Juniors débute. 
+
 1909 Les Sociétés des Jeunes Volontaires Missionnaires sont organisées. 
+
 1911 Début des clubs « Takoma Indians » et « Woodland Clan & Pals » 
+
 1914 Début des leçons bibliques de JMV 
+
 1915 Introduction des exigences pour le Niveau de compétences des Juniors 
+
 1917 Plan de lecture de la Bible pour les juniors Programme de lecture pour le niveau primaire 
+
 1918 Publication du Junior Manual [Manuel pour les juniors] publié par Ella Iden Publication du Manuel sur le Niveau de compétences des juniors 
+
 1919 Les « Mission Scouts » [Scouts missionnaires] sont organisés par A.W Spaulding. 
 
 Continuer à marcher au pas et avec fidélité 
 
-1920 Harriet Holt devint la première secrétaire pour les juniors du département de la jeunesse de la Conférence Générale. . 
+1920 Harriet Holt devint la première secrétaire pour les juniors du département de la jeunesse de la Conférence Générale. 
+
 1921 Introduction de l'Engagement et de la Loi des JMV 
+
 1922 Introduction des classes Ami et Compagnon des JMV Introduction des niveaux Comrade [Camarade] et Master Comrade [Chef-Camarade] dans le cadre du Comrade Band [Groupe de camarades] 
+
 1924 Publication du Junior Manual [Manuel pour les juniors] par Harriet Holt 
+
 1925 Premier camp des juniors organisé en Australie 
-1926 Premier camp des juniors organisé au lac Town Line, au Michigan (pour les garçons uniquement) Comité sélectionné pour étudier la fonction des uniformes des JMV 
+
+1926 Premier camp des juniors organisé au lac Town Line, au Michigan (pour les garçons uniquement) Comité sélectionné pour étudier la fonction des uniformes des JMV
+
 1927 Camps pour les juniors garçons et filles au Michigan et au Wisconsin 
+
 John McKim lance le club des Explorateurs à Anaheim, en Californie. 
+
 1928 C. Lester Bond devient le deuxième dirigeant mondial des juniors. Introduction des 16 premiers mérites pour activités professionnelles 
+
 1929 Terme « Explorateur » utilisé pour nommer le camp d'été à Idyllwild, en Californie. Publication du premier guide des JMV Les mérites sont renommés distinctions pour activités professionnelles avec l'ajout de 19 nouvelles distinctions 
+
 1930 Lester Martin et Theron Johnston lancent un club des Explorateurs à Santa Ana, en Californie. 
+
 1931 Révision du guide des JMV 
+
 1936 Marjorie March est nommée au comité de l'uniforme pour étudier sa fonction. On utilisait l'écharpe. 
+
 1938 L'édition révisée du guide des JMV montre l'uniforme réglementaire avec l'écharpe. Ideals for Juniors [Idéaux pour les juniors], premier livre se basant sur l'Engagement et la Loi, par C. Lester Bond 
+
 1939 Les JMV démarrent en Suisse. 
+
 1945 Clark Smith et Henry T. Bergh préparent le premier Manuel de manoeuvres. 
+
 1946 L. A. Skinner devient le troisième dirigeant mondial des juniors Organisation dans la fédération du Sud-Est de la Californie du premier club des Explorateurs ayant le soutien de la fédération locale 
+
 Francis Hunt et le directeur John Hancock conçoivent le triangle des Explorateurs. 
+
 1948 Henry Bergh écrit le chant des Explorateurs. 
+
 1949 Premier club des Explorateurs à Porto-Rico : Eliezer Melendez, directeur. 
+
 Excursion d'un groupe allemand organisée par K.H. Machenbach 
+
 1950 La Session de la Conférence Générale vote pour officialiser le club des Explorateurs au niveau mondial. Laurence A. Skinner devient le premier directeur mondial des Explorateurs (1950-1963). Le cours de formation du personnel des Explorateurs d'une durée de 10 heures conduisit à l'introduction et à l'impression du livret « Comment démarrer un club des Explorateurs ». Camarade devint Guide et Chef-Camarade devint Chef-Guide. On donna une année aux clubs pour utiliser leurs fournitures. Premier club des Explorateurs à Aruba, au Mexique. 
+
 1951 Première foire des Explorateurs, fédération du Nord de la Californie, Sanitarium, Californie, 23 septembre ; et fédération du Centre de la Californie, Dinuba. Deuxième foire des Explorateurs, 30 septembre, fédération du Sud de la Californie ; Glendale. Publication du Manuel pour le personnel des Explorateurs Idée de collecter de la nourriture pour Halloween utilisée pour la première fois à Wadena, dans le Minnesota. Premier club des Explorateurs en Amérique du Sud Première à utiliser le terme Conquistadores : Nercida de Ruiz, directrice. 
+
 1953 La publication du Junior Guide [Guide pour les Juniors] commence le 07 octobre ; il devint Guide en 1964. Le premier camporée des Explorateurs a lieu entre le 09 et le 11 octobre dans la fédération du Sud de la Nouvelle-Angleterre, au Camp Winnekeag, dans le Massachusetts. 
+
 1954 Deuxième camporée des Explorateurs, entre le 07 et le 09 mai, dans la fédération du Sud-Est de la Californie ; camp des Explorateurs, Californie. Troisième camporée des Explorateurs, à Fresno, dans la fédération du Centre de la Californie. Premier club des Explorateurs à Port of Spain, Trinidad et Tobago. Ruben Wilson : directeur. 
+
 Première foire des Explorateurs à Trinidad et Tobago Premier club des Explorateurs à Hambourg; de même, publication d'un magazine appelé « Dein Freund » [Ton ami]. 
+
 1956 Ajout de la classe Éclaireur 
+
 1957 Ajout du jour des Explorateurs des JMV au calendrier du sabbat de l'église 
+
 1958 Premiers clubs des Explorateurs de l'Afrique du Sud, organisés dans la fédération de Bonne-Espérance Ajout du niveau avancé pour les quatre premières classes 
+
 1959 Premier club des Explorateurs en Suède Premier camporée de l'Union (Pacifique Nord), Snoqualmie ; 1000 participèrent. 
+
 1960 Premier camporée en Amérique du Sud au lac La Nauhe, Chili Premier club des Explorateurs d'Argentine, Libertador, San Martin. Premiers clubs des Explorateurs brésiliens, organisés à Riberâo Preto, Sào Paulo Deuxième camporée de l'Union, Union de fédérations du Pacifique, Lone Pine, Californie, 11-14 avril. Début du club des Explorateurs en Autriche. 
+
 1961 Manuel de baptême pour les juniors Premier camporée de la Division du Sud de l'Europe, Montpellier ; Steiner : directeur. 
+
 1962 Publication du Guide pratique des Explorateurs Le cours de formation du personnel des Explorateurs passa à six sections de 10 heures chacune. 
+
 1963 John Hancock devient deuxième directeur mondial des Explorateurs (1963-1970). Première foire des Explorateurs en Afrique du Sud 
+
 1966 Ajout de la classe Pionnier qui devint Rangers en 1970 
+
 1967 Début des camps adventistes pour les aveugles par Norm Midday au Camp Kulaqua 
+
 1970 Leo Ranzolin devient troisième directeur Mondial des Explorateurs (1970-1980). La classe Pionnier devint Ranger' dans la Division Nord-américaine. Premier défilé de la Journée de l'Indépendance pour les Desbravadores au Brésil 
+
 Début du club des Explorateurs au Portugal 
+
 1971 Premier camporée à l'échelle de la division : Division de l'Europe du Nord-Afrique de l'Ouest et du Centre / Division transeuropéenne, à Vasterang, Suède ; Sundqvist : directeur. Premier film des Explorateurs, « Pathfinder Drill » par Jan Doward. 
+
 1972 Début du club des Explorateurs en Italie 
+
 1974 Premier camporée de la Division d'Asie du Sud, Karnataka ; McHenry : directeur 
+
 1975 Premier camporée de la Division du Pacifique Sud, Harramundi, Australie ; Christian : directeur. Premier camporée brésilien, fédération Rio Grande do Sul [fédération du sud du Rio Grande] Publication de The Happy Path [Le chemin de la joie] par L. Maxwell ; deuxième livre se basant sur l'Engagement et la Loi. 
+
 1976 50ème anniversaire des camps pour les juniors Ajout des spécialisations Master (10) au curriculum des distinctions. 
+
 1977 Deuxième film des Explorateurs sur les réunions du club 
+
 1979 Les Jeunes Missionnaires Volontaires deviennent la Jeunesse adventiste junior. Premier camporée de l'Union au Brésil — Union du Sud du Brésil 
+
 1980 Mike Stevenson devient le 4ème directeur mondial des Explorateurs (1980-1986). Les Pitton devient le premier directeur de la jeunesse et des Explorateurs de la Division nord-américaine. 
+
 1981 Publication du recueil de chants Pathfinders Sing [Les Explorateurs chantent] 
+
 1982 Ajout de la classe Voyageur après la classe Ranger 
+
 1983 Premier camporée de la Division interaméricaine, Oxtepec, Morelos, Mexique ; directeur : Leito. Premier camporée de la Division sud-américaine, Foz de Iguaçu, Brésil; directeur : Belz. 
+
 1985 Premier camporée de la Division nord-américaine, camp Hale ; directeur : Pitton. 
+
 La jeunesse et les Explorateurs font désormais partie du département des ministères de l'église. 
+
 1986 Malcolm Allen devient le cinquième directeur mondial des Explorateurs (1986- 1996). 
+
 1988 Premier camporée de l'Union du Chili, Placilla. 
+
 1989 Production de la vidéo Pathfinders Strong [Les Explorateurs en force]. Introduction du programme d'éducation continue (PLA et APLA/PIA) pour les Chefs-Guides Edition anglaise de la Bible des Explorateurs 
+
 1990 Publication de Finding the Right Path [Trouver le bon chemin] pari Doward ; troisième livre s'appuyant sur l'Engagement et la Loi. 
-1992 Premier camporée du Kenya. 
+
+1992 Premier camporée du Kenya.
+
 1994 Premier camporée de la Division d'Afrique de l'Est, Zambie ; directeur : Muganda. Vidéo sur les distinctions des Explorateurs, Journey of Discovery [Voyage de découverte]. Début des Explorateurs en Roumanie. 
+
 1995 La jeunesse et les Explorateurs quittent le département des ministères de l'église et se réorganisent. Début des Explorateurs en Bulgarie 
+
 1997 Robert Holbrook devient le 6ème directeur mondial des Explorateurs (1997- 2005). De nouvelles bagues de foulard en tissu remplacent les anciennes en métal et en plastique. Ajout du « Master santé » aux Spécialisations « Master » 
+
 1999 Édition portugaise de la Bible des Explorateurs Deuxième camporée de la Division d'Afrique de l'Est, Ouganda ; directeur : Mfune. Ajout de la catégorie Santé et Science aux distinctions 
+
 2000 Union du Sahel, premier camporée en Afrique de l'Ouest 
+
 Début des Explorateurs en Bulgarie 
+
 2003 Camporée panafricain, Kenya ; directeurs : Fransch et Mulumba 
+
 2004 Premier camporée de la Division de l'Afrique de l'Ouest et Centrale, Lome, au Togo ; directeur : Nlo Nlo. Le camporée international Faith on Fire [La foi en effervescence] fut organisé à Oshkosh, dans le Wisconsin. 
+
 2005 La Division sud-américaine a tenu son troisième camporée dans l'état de Paranâ, au Brésil. Jonatan Tejel devient le septième directeur mondial des Explorateurs. 
-2006 La Division d'Afrique de l'Est organisa un camporée des explorateurs en France. La Division transeuropéenne organisa un camporée des Explorateurs au Danemark. 
+
+2006 La Division d'Afrique de l'Est organisa un camporée des explorateurs en France. La Division transeuropéenne organisa un camporée des Explorateurs au Danemark.
+
 2007 La Division d'Afrique de l'Est organisa un camporée des Explorateurs à Paris, en France. 
+
 2009 Le camporée international des Explorateurs intitulé Courage to stand [Le courage de se tenir debout] fut organisé à Oshkosh, dans le Wisconsin. 
+
 2010 La Division transeuropéenne organisa un camporée à Ominen, aux Pays-Bas. 
+
 2011 Le troisième camporée de la Division interaméricaine fut organisé dans la ville de Mexico, au Mexique. La Division d'Afrique de l'Est organisa un camporée à Rome, en Italie. 
+
 La Division de l'Asie du Nord et du Pacifique organisa le premier camporée de la Division en Corée du Sud 
+
 2013 Journée mondiale de la jeunesse organisée par Gilbert Cangy pour inciter les jeunes dans le monde à s'engager dans leurs communautés. 
+
 2014 Le quatrième camporée de la Division sud-américaine fut organisé à Barretos, Sao Paulo, au Brésil. 
+
 La Division transeuropéenne organisa un camporée à Ommen, aux Pays-Bas. 
+
 2016 Ajout des Masters Croissance spirituelle, Technologie moderne, et Famille, Origine et Héritage 
+
 2017 Le camporée de la Division d'Afrique de l'Est fut organisé en Tanzanie. 
+
 2019 La Division interaméricaine organisa le 4ème camporée des Explorateurs en République Dominicaine. Andrés Peralta devient le Sème directeur mondial des Explorateurs. La Division sud-américaine organisa deux camporées consécutivement : Alpha, et Oméga à Barretos, Sao Paulo, au Brésil. Le camporée Chosen [Choisis] fut organisé à Oshkosh, dans le Wisconsin. 
 
 # 5. Dirigeants mondiaux les Explorateurs : Notes biographiques 
