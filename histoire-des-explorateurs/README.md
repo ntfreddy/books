@@ -2,9 +2,9 @@
 
 Un bref historique du ministère du club des Explorateurs
 
-## 1. En mission pour Dieu (Avant 1920) 
+# 1. En mission pour Dieu (Avant 1920) 
 
-### Années 1800
+## Années 1800
 
 Croyez-le ou non, les jeunes de 10 à 15 ans ont toujours contribué de façon importante au mouvement connu sous le nom d'Église adventiste du septième jour. Parfois, cette importance a été laissée dans l'ombre, mais elle n'en a pas moins été présentée. Le courage, le leadership et le dévouement manifestés par des dirigeants tels que James et Ellen White, Uriah et sa sœur Anne Smith, John Loughborough, John Andrews et tant d'autres ne sont pas simplement apparus quand ces derniers sont devenus plus âgés. Ces caractéristiques étaient toutes en eux dans leur jeune âge. Un incident dans la vie de John Andrews illustrera ces propos : John avait environ 10 ans ; sa famille venait juste d'entendre et de décider de suivre les enseignements de William Miller. Des petits groupes de « Millérites » se réunissaient le mercredi soir après une dure journée de travail dans les champs pour étudier leur Bible. John aimait participer à ces soirées parce qu'il n'avait pu aller à l'école que trois ou quatre ans. Un soir, il était en chemin pour rencontrer un homme plus âgé, M. Davis. Ils arrivèrent au niveau d'un petit pont surplombant un ruisseau et tombèrent sur une bande de brutes. Leur chef avait un fouet servant pour les gros taureaux et avait l'intention de fouetter M. Davis jusqu'à ce qu'il fasse preuve de bon sens. Quand John réalisa ce qu'il se passait, il s'interposa immédiatement entre les deux hommes et demanda qu'on le fouettât lui avant de fouetter Mr Davis. La brute eut honte à l'idée de fouetter un garçon, il céda et leur permit de poursuivre leur chemin. 
 
@@ -12,13 +12,13 @@ En 1879, Luther Warren, 14 ans, faisait partie de l'équipe qui organisa dans l'
 
 Alors qu'ils vieillissaient, les dirigeants réalisèrent que la prochaine génération avait besoin d'être guidée et encouragée, donc en 1890, le magazine hebdomadaire Our Little Friend [Notre petit ami] vit le jour sous la direction de l'éditeur W.N. Glenn. Au début, le magazine se focalisa sur les enfants entre 6 et 12 ans, mais ultérieurement, il fut divisé en deux groupes avec un nouveau magazine Junior Guide [Guide pour les juniors] concernant le groupe des 10-14 ans, et Friend [Ami] s'adressant aux 4-9 ans. En 1957, Primary Treasure [Premier trésor] fit son apparition pour les 6-10 ans et Friend migra vers les 0-5 ans. 
 
-### 1901-1907 
+## 1901-1907 
 
 Pendant les premières décennies, les juniors et les jeunes adolescents faisaient partie intégrale du programme complet de la jeunesse qui émergeait lentement dans l'église. Ils étaient inclus dans tous les efforts initiaux pour organiser les sociétés de la jeunesse dans les diverses fédérations, et on considéra qu'ils faisaient partie du tableau quand en 1901, la Conférence Générale vota pour établir une organisation spécifique et reconnue pour la jeunesse, et la plaça temporairement sous la direction de l'École du sabbat jusqu'à ce qu'il fût sage de la laisser voler de ses propres ailes. Pendant ces premières années, beaucoup de membres plus âgés de l'église ayant curieusement oublié ce que c'était d'être jeunes, résistèrent à tous les efforts pour prévoir des activités et des exutoires à l'énergie propre aux jeunes. Les juniors et les plus jeunes enfants particulièrement devaient être vus et non entendus. Ils « seraient éventuellement prêts à servir dans le futur, mais pas maintenant. » Tout effort pour donner quelque rôle actif à cette tranche d'âge était jugé diabolique. Heureusement, quelques personnes plus âgées, à des moments et dans des lieux cruciaux, s'élevèrent pour défendre les jeunes, les guider, les superviser afin qu'ils participent et rencontrent du succès. Cette reconnaissance officielle par la Conférence Générale en 1901 aida grandement à surmonter ces notions néfastes des débuts. 
 
 Puis vint Flora Plummer, directrice du département de l'École du sabbat de l'Église mondiale. Elle avait pour responsabilité de créer un bouquet d'activités pouvant faire naître efficacement chez la jeunesse de l'église le désir de servir ainsi qu'un nouveau niveau de croissance spirituelle et de discernement. Elle était apparemment plus que largement qualifiée pour ce travail. Elle plongea dans sa nouvelle mission avec une telle énergie et un tel enthousiasme qu'en l'espace de quatre années, les nouvelles Sociétés des Missionnaires volontaires (MV) avaient surgi sur presque chaque continent et beaucoup d'îles marines. (Lisez davantage à ce sujet dans le livre The AY Story [L'histoire de la Jeunesse adventiste] ou en ligne sur youth.gc.adventist.org). Cette œuvre s'étendit si rapidement que l'on intégra Luther Warren au département pour qu'il se focalisât uniquement sur le mouvement MV. 
 
-### 1907-1919 
+## 1907-1919 
 
 Dès 1907, il était devenu évident que le travail de l'église auprès des jeunes nécessiterait un département à part entière. Ainsi, lors du conseil de mi-mandat tenu en Suisse cette année-là, la Conférence Générale vota pour l'établissement du département de la jeunesse sous la direction de Milton Kern, professeur à l'Union College du Nebraska et promoteur de longue date du ministère de la jeunesse. Plus important pour les Juniors fut la nomination de Matilda Erickson en tant que son assistante. Elle passa la majeure partie de son temps à développer du matériel pour les juniors. Au cours des années qui suivirent, un certain nombre de programmes spécifiquement conçus pour enrichir la croissance spirituelle des plus jeunes furent introduits. Ces programmes sont toujours une partie intégrante du ministère actuel des Explorateurs. 
 
@@ -34,9 +34,9 @@ La Bible en une année pour les juniors, un plan selon lequel les enfants étaie
 
 A.W. Spaulding, un homme qui fut un vrai mentor pour la jeunesse de son église, vivait dans le Tennessee aux environs de 1919 et il fit d'un petit groupe de garçons un petit club qu'il appela « Mission Scouts » [Scouts missionnaires]. Ils partaient camper à l'occasion et faisaient « de bonnes actions » dans leur communauté. Ils créèrent même un Engagement' et une Loi à suivre. Bien que ce petit club mourût rapidement quand Spaulding s'en alla, l'engagement et la loi furent adoptés et devinrent l'engagement et la loi des JMV. Légèrement modifiés, ils existent aujourd'hui en tant que lumière directrice du club des Explorateurs. 
 
-## 2. Continuer à marcher au pas et avec fidélité (1920-1946)
+# 2. Continuer à marcher au pas et avec fidélité (1920-1946)
 
-### 1920-1928
+## 1920-1928
 
 Jusqu'ici, nous avons vu les origines d'un certain nombre des éléments qui constituent aujourd'hui une partie intégrale du ministère des Explorateurs, allant même jusqu'aux évènements hebdomadaires organisés sous le nom de JMV. Logiquement, la prochaine étape était de commencer à expérimenter de façon à proposer les activités restantes, l'éducation en plein air. Un certain nombre de dirigeants d'églises locales oeuvrant avec les enfants commencèrent à les emme-   Harriet Holtner à l'extérieur pour faire des randonnées et de petites excursions du même genre dans le monde créé par Dieu. Le camping suivit rapidement. En 1919, le club d'A.W. Spaulding dans le Tennessee avait inclus le camping dans son catalogue d'activités. L'année suivante, lors du Concile d'automne annuel de la Conférence Générale en 1920, le département de la jeunesse ajouta une jeune femme, Harriet Holt, à son personnel. Sa tâche spécifique était de s'occuper du niveau junior dans l'église. Harriet était une femme qui aimait s'amuser, elle était audacieuse, aventureuse et créative, elle aimait prendre des risques et aimait le plein air. Elle avait une combinaison parfaite de talents pour l'aider à débuter la prochaine phase du ministère des juniors et des adolescents dans l'église.
 
@@ -46,7 +46,7 @@ Pendant cette période, on développa le camping et autres compétences en plein
 
 C'est dans un de ces premiers camps en 1928 au sud de la Californie que A.W. Spaulding se retrouva à raconter l'histoire des aventures de John C. Frémont, un des premiers explorateurs de l'Ouest des États-Unis connus sous le nom d'hommes de la montagne. On le surnommait « L'Explorateur ». Le surnom se propagea, le camp fut nommé « Camp des Explorateurs ». Cela devint le nom du club pour les juniors d'une église locale dirigé par John McKim. Au final, il devint le nom du club qui rassembla toutes les différentes pièces développées au cours des deux ou trois décennies précédentes, transformant ainsi la Société des JMV en l'actuel club des Explorateurs. 
 
-### 1928-1946 
+## 1928-1946 
 
 C. Lester Bond occupa le poste de directeur des juniors de 1928 à 1946. Presque immédiatement après être entré en poste, il introduisit les seize premiers "Mérites", devenus Distinctions pour activités professionnelles, et 19 autres furent ajoutés l'année suivante. Aujourd'hui, ces distinctions sont connues sont le nom de Distinctions des Explorateurs ou Distinctions de la Jeunesse adventiste. Bond fut un auteur prolifique ; presque chaque année une nouvelle édition révisée du Junior Missionary Volunteer Handbook [Guide du Jeune Missionnaire Volontaire] et du Master Comrade Manual [Manuel du Chef-Camarade] sortait d'impression. Chaque révision sortie comprenait plusieurs nouvelles distinctions. Il écrivit également un certain nombre de livres de méditations annuels pour les juniors. Ce n'était pas si difficile à faire à l'époque. Les voyages se faisaient principalement par bateau à vapeur ou par train. Il sillonna le monde, il eut donc beaucoup de temps libre pour étudier et écrire. Il Faudrait mentionner que, bien que Bond crût fermement en la Société des JMV, il ne soutint pas, dans les dernières années de son mandat, la croissance du mouvement vers le club des Explorateurs. Cette étape revint à la génération de dirigeants suivante. 
 
@@ -58,17 +58,17 @@ Vers 1930, Lester et Ione Martin dirigeaient un petit club avec l'aide de Dr The
 
 Laurence Skinner, directeur de la jeunesse dans la zone Nord-Ouest du Pacifique, prit le risque de bouleverser le statu quo et lança, en 1942, quelques clubs qu'il appela « Trailblazers » [Pionniers]. Il utilisa certains des manuels qu'Henry Bergh avait élaborés dans l'Union du Pacifique Nord pour les aider à se développer, et il eut bientôt un certain nombre de clubs fonctionnant globalement sous l'égide de la Société des JMV mais avec un champ d'activité plus large. Le décor était planté pour la prochaine étape. 
 
-### 1937 
+## 1937 
 
 Le directeur de la jeunesse Lawrence Skinner démarra un club dans la fédération du Sud de la Californie, à Glendale, en Californie. 
 
-### 1938 
+## 1938 
 
 Il y eut un club dans la fédération du Sud-Est de la Californie à Loma Linda, en Californie ; le troisième enregistré dans cette fédération.
 
-## 3. Les Explorateurs en force (1946-Présent) 
+# 3. Les Explorateurs en force (1946-Présent) 
 
-### 1946-1950 
+## 1946-1950 
 
 Le programme de camp d'été pour les enfants était désormais devenu une tradition bien établie. La Société des JMV était également bien développée avec une plutôt vaste gamme de programmes. Cependant, quelque chose manquait. Une mère vint voir John Hancock, le nouveau directeur de la jeunesse de la fédération du Sud-Est de la Californie (1946). Elle avait remarqué l'impact positif du camp d'été sur son garçon et se demandait pourquoi les activités proposées pendant les camps d'été n'avaient pas lieu tout au long de l'année. Hancock se rendit auprès de l'église de Riverside, et avec Francis Hunt (étudiant en théologie de La Sierra College) en tant que directeur de club, il démarra un club pour environ 15 garçons et filles, et lui donna le nom qui avait été utilisé auparavant dans ces autres églises de la même fédération, les Explorateurs. Il ne fallut pas longtemps pour que l'idée se propageât dans les autres églises. Lawrence Paulson, de l'église de Glendale, retint l'idée, et il eut bientôt un club de 150 membres. Il est considéré par les autres pionniers du ministère des Explorateurs comme l'un des plus grands directeurs de club de tous les temps. A partir de 1947, il eut pour responsabilité de lancer et de diriger au moins 11 autres clubs des Explorateurs. En tant que bénévole, il anima des séminaires de formation du personnel à travers le pays bien après sa retraite. Hancock, qui était également un artiste, conçut un logo, le triangle. Il demanda à son collègue, Henry Bergh de la fédération du Centre de la Californie d'écrire un chant adapté à une telle organisation, et ce fut la naissance du chant des Explorateurs en 1949. Henry combina aussi le triangle avec un dessin supplémentaire, et il demanda à Helen Hobbs de les coudre ensemble. Ainsi naquit le drapeau des Explorateurs. 
 
@@ -85,7 +85,7 @@ Clark Smith rédigea les premiers manuels de manœuvre des Explorateurs en tenan
 
 En 1946, Laurence Skinner avait été appelé de l'Union du Pacifique Nord pour se rendre à la Conférence Générale et diriger le ministère des juniors, remplaçant ainsi C. Lester Bond. L'une de ses premières décisions fut qu'il était temps pour ce nouveau club de dépasser la sphère de la côte ouest des États-Unis. Il contacta J.R. Nelson de l'Union du Pacifique et lui demanda de réunir son équipe afin de développer un programme complet qui serait utile partout. C'est ce qu'ils firent, et après plusieurs sessions et projets pilotes, ils avaient un programme à présenter en 1950. Cela fut voté lors de la Session générale de l'Église tenue cette année-là, et Skinner devint ainsi le premier directeur Mondial des Explorateurs. Quelques mois plus tard, à l'automne, les aînés John Hancock et Lee Carter furent appelés à Washington, où ils mirent la touche finale au Pathfinder Staff Manual [Manuel du person-nel des Explorateurs] et au petit livre intitulé How to Start a Pathfinder Club [Comment démarrer un club des Explorateurs], qui se basait sur deux éditions locales antérieures, l'une écrite par Henry Bergh et l'autre par Lawrence Paul-son. Et, on pourrait dire : « Le reste, c'est de l'histoire ancienne. » 
 
-### Les années 50 
+## Les années 50 
 
 Au cours des quatre dernières années, à partir de 1946, des fondations soigneusement élaborées avait été érigées. Désormais, le club des Explorateurs ne serait plus un club ou un ministère exclusivement nord-américain. Cela fut présenté pour la première fois au Concile d'automne de 1949, lorsque les administrateurs de l'Église mondiale se réunirent pour déterminer l'ordre du jour de la Session de la Conférence Générale. Ces réunions donnèrent le feu vert pour une présentation l'année suivante. Dès que cela fut approuvé par l'Église mondiale, le club des Explorateurs devint une organisation véritable-ment internationale. D'autres pays reprirent immédiatement le concept et l'adaptèrent à leurs réalités. Au cours de la décennie suivante, il y eut de nombreuses premières fois. Certaines d'entre elles se produisaient encore en Amérique du Nord, et beaucoup d'entre elles se produisaient désormais dans tous les autres pays. 
 
@@ -109,7 +109,7 @@ Un grand nombre d'autres distinctions furent introduites, portant le total à pr
 
 Après la révision du concept de classe, les dirigeants remarquèrent qu'il y avait toujours dans presque chaque club quelques Explorateurs qui étaient tellement passionnés par le programme qu'ils avaient vraiment besoin d'opportunités plus poussées pour poursuivre leur croissance. Donc, en 1958, on donna à chacune des quatre classes un niveau avancé qui devait être représenté sur l'uniforme par une barrette spéciale dans les couleurs de la classe correspondante.
 
-### Les années 60
+## Les années 60
 
 Cette décennie commence par le début du troisième grand obstacle linguistique chez les Explorateurs d'aujourd'hui, les « Desbravadores » qui parlent le portugais. En 1960, John Youngberg retournait aux États-Unis après une permission au Chili en passant par le Brésil. Il avait lancé le club des Explorateurs dans le pays où il travaillait, et maintenant il avait été invité par l'aîné Wilson Sarli afin de l'aider à démarrer le club dans le sud du Brésil. Les deux premiers clubs organisés cette année-là se trouvaient dans la ville de Ribeirâo Preto à l'intérieur de l'État de Sâo Paulo, et à Capâo Redondo, une banlieue de la ville de Sâo Paulo. Ribeirâo Preto enregistra même le tout premier baptême d'un Explorateur brésilien l'année suivante - aujourd'hui elle est toujours dirigeante des Explorateurs. À peu près au même moment, par le biais d'un autre formateur, un troisième club fut formé dans l'État de Santa Catarina à Lageado Baixo, une église très proche de l'église pionnière où le message adventiste entra pour la première fois au Brésil. Loin, dans le nord-est du Brésil, une jeune femme, Joselita, mit la main sur un petit manuel ronéotypé de 8 pages sur le thème des Explorateurs, elle s'enthousiasma à ce sujet, et créa son propre club la même année. Un administrateur dit à son pasteur/mari qu'il n'était pas convenable qu'elle fût vue en train de faire ce genre de choses, tandis qu'un autre lui demanda d'aller dans d'autres églises et de les aider à démarrer. Quarante-cinq ans plus tard, elle dirigeait toujours un club de quelque 80 Explorateurs.
 
@@ -118,7 +118,7 @@ Des camporées étaient organisés par les fédérations locales, du moins spora
 
 L'ancien Skinner avait géré les débuts du club des Explorateur alors que ce dernier se répandait dans le monde entier. Il avait été l'un des collaborateurs ayant officié le plus longtemps dans le département de la jeunesse de la Conférence Générale, et désormais, après 17 ans, il était temps d'arrêter. Il prit sa retraite en 1963 et fut remplacé par un autre pionnier fondateur (beaucoup plus jeune), John Hancock. Au cours de ses années avec les Explorateurs, tout ce qui était déjà en place continua d'être perfectionné, des distinctions furent ajoutées à la liste qui ne cessait de s'allonger, et la classe numéro 5, Pionnier, fut introduite en 1966 (elle prit ensuite le nom de Ranger en 1970). Hancock ne devait rester que 7 ans, mais il était si apprécié par les jeunes du monde entier qu'en 1970, on lui demanda de remplacer Ted Lucas, qui partait à la retraite, au poste de directeur mondial de la jeunesse, où il resta 10 ans de plus. Les camps adventistes ouvrirent leurs portes à un nouveau groupe d'enfants - les campeurs aveugles - en 1967 et changèrent ainsi leur monde à jamais. Depuis le début en 1963 des camps nationaux pour les enfants aveugles avec 23 campeurs, plus de 47 000 campeurs ont fait l'expérience de la joie, de l'assertion et des défis que l'on trouve dans ces camps. Les camps nationaux pour les enfants aveugles NCBC (National Camps for Blind Children) font partie intégrante de l'objectif du Christian Record Service2 : aider les aveugles à voir Jésus.
 
-### Les années 70
+## Les années 70
 
 Les Explorateurs brésiliens, conformément à la nature même du Brésil, avaient tellement grandi et mûri au cours de leur première décennie que le directeur de la jeunesse de l'Union du Sud du Brésil, Leo Ranzolin, fut considéré comme un candidat naturel pour succéder à Hancock au poste de directeur mondial des Explorateurs. Les années 1970 commencèrent donc avec le troisième et premier directeur mondial non-américain des Explorateurs. Leo resta en poste pendant toute la décennie (jusqu'en 1980), puis il succéda à nouveau à Hancock lorsque ce dernier prit sa retraite en tant que directeur mondial de la jeunesse. Leo finit par devenir vice-président de l'Église mondiale et il prit sa retraite. Cependant, il fut toujours un invité de choix lors de tout grand rassemblement des Explorateurs, et il ne refusa jamais une invitation.
 
@@ -128,7 +128,7 @@ En 1976, divers groupes dans le monde entier célébrèrent le 50ème anniversai
 
 Le club des Explorateurs fit également son entrée dans le monde médiatique avec la production de son premier film nommé « Pathfinder Drill [Manoeuvres des Explorateurs] (1971), filmé par une équipe dirigée par Jan Doward et mettant en scène un club de la fédération de Chesapeake.
 
-### Les années 80
+## Les années 80
 
 Mike Stevenson, originaire d'Afrique du Sud, entama la nouvelle décennie en tant que nouveau directeur mondial des Explorateurs, en remplacement de Leo Ranzolin, devenu directeur mondial de la jeunesse. La Division nord-américaine franchit également une nouvelle étape dans sa séparation avec la Conférence Générale en élisant son tout premier directeur de la jeunesse et des Explorateurs, Les Pitton. ( Jusqu'à cette époque, l'Amérique du Nord avait toujours été partie intégrante de la Conférence Générale et ne disposait pas de son propre groupe de dirigeants). Les étant devenu un dirigeant indépendant avec sa propre Division, il était temps de commencer à planifier le premier camporée de la Division nord-américaine qui fut tenu sur un ancien terrain d'entraînement militaire dans le haut pays du Colorado, au camp Hale, en 1985. Il devint immédiatement le plus grand évènement de ce type jusqu'à cette date dans l'histoire des Explorateurs (plus de 15 000 participants), et chaque camporée qui suivit fut de plus en plus grand.
 
@@ -143,7 +143,7 @@ La décennie prit fin en 1989 avec le deuxième camporée de la Division nord-am
 
 D'une certaine manière, les années 1980 initièrent une période difficile pour le ministère de la jeunesse dans l'église. En 1985, le département fut fusionné avec plusieurs autres pour former un « super-département » appelé Ministères de l'Église. Bien que l'intention eût été de rationaliser plus efficacement les efforts et les programmes des départements, cette fusion fut considérée par de nombreuses administrations comme une occasion de réduire le personnel et d'économiser de l'argent. Le ministère de la jeunesse paya un lourd tribut ; heureusement, le ministère des Explorateurs sortit de cette expérience en bien meilleure forme que la plupart des autres ministères. Cela s'expliquait par le fait qu'une base solide avait été établie grâce au niveau élevé de bénévoles formés et dévoués avec lesquels le club fonctionnait, et par le fait qu'aux niveaux supérieurs de la direction, le ministère des Explorateurs avait pu maintenir un leadership ciblé en place. Vers 1995, cette expérience dans les ministères de l'église fut abandonnée et le département de la jeunesse revint sous un plan restructuré.
 
-### Les années 90
+## Les années 90
 
 Cette décennie commença avec une mise à jour vraiment nécessaire du curriculum de Chef-Guide, qui incluait aussi deux niveaux d'éducation continue : le Pathfinder Leadership Award (PLA- Spécialisation pour le leadership dans le club des Explorateurs) et l'Advanced Pathfinder Leadership Spécialisa-tion / Spécialisation Pathfinder Instructor Award (APLA/PIA— Spécialisation pour le leadership avancé dans le club des Explorateurs / pour l'instructeur des Explorateurs) dans la continuité des ressources devant remplir le vide énorme dans la formation au leadership dû à la croissance rapide du nombre de membres d'église mentionnée dans la décennie précédente.
 
@@ -159,7 +159,7 @@ En vue de la session de la Conférence Générale de 1995, il fut demandé à Ma
 
 Des événements spéciaux à petite échelle, consacrés à la formation et à la communion pour les Chefs-Guides, avaient été mis en place dans différents pays depuis un certain temps. Il semblait être temps d'offrir quelque chose de plus à ce groupe dévoué de dirigeants bénévoles. Ainsi apparut l'idée de camporées et de conventions au niveau de la Division pour les Chefs-Guides. Le premier événement de ce genre fut un camporée organisé en Amérique du Sud, à Pucén, au Chili, en janvier 1998. Il fut suivi le mois suivant en Amérique du Nord par une convention tenue à Los Angeles, en Californie. Cette même année, la Division interaméricaine organisa son 2ème camporée des Explorateurs à Porto Rico, sous la direction du directeur de la jeunesse de l'époque Alfredo Garcia-Marenko, qui devint par la suite directeur mondial de la jeunesse senior de 1998 à 2005. Cette décennie s'acheva avec le 4ème camp-orée de la Division nord-américaine organisé en août 1999. Ce fut alors le plus grand événement de ce type au monde avec 25 000 participants à Oshkosh, dans le Wisconsin.
 
-### Les années 2000
+## Les années 2000
 
 Ce sera évidemment un maillon inachevé de l'histoire des Explorateurs. Il y a tellement d'événements, de personnes et de programmes dans le monde qu'en raison des distances, du temps et du manque d'informations, nous n'avons accès qu'aux faits essentiels. Le club des Explorateurs compte aujourd'hui environ 2 millions de membres répartis dans 85 % des pays du monde. Les clubs se développent et disparaissent en fonction de la qualité et du dévouement des dirigeants locaux.
 Bien que les ressources nécessaires au bon fonctionnement d'un club soient plus abondantes que jamais, il semble qu'il n'y en ait jamais assez. Il y a eu de nombreux goulots d'étranglement empêchant un fonctionnement efficace des clubs ; certains d'entre eux ayant été contournés ou réduits. Les clubs ont amélioré l'accès direct au matériel dont ils ont besoin pour fonctionner grâce à la création de centres de distribution, tels qu'AdventSource en Amérique du Nord et AY Outfitters sur le site Web du département des ministères de la jeunesse de la Conférence Générale. La technologie a contribué à une plus grande unité à travers le monde ; elle a aussi ajouté de la confusion, avec les sites web gérés localement propageant des programmes locaux et personnels.
@@ -174,9 +174,9 @@ Parce que l'Afrique de l'Ouest était déçue de n'avoir pas pu participer au ca
 
 Cela nous ramène à l'année 2005. L'Amérique du Sud commence l'année au début du mois de janvier avec un autre camporée record à l'extérieur de l'Amérique du Nord, quand 22 000 des 165 000 éventuels Explorateurs des 8 pays de leur Division se rassemblèrent dans une petite ville du sud du Brésil pour le troisième camporée à l'échelle de la division. Erton Kohler, son équipe de directeurs de la jeunesse et des centaines de bénévoles dirigèrent un des évènements les plus inspirants dans l'histoire des Explorateurs. Quand on commence à évaluer l'impact sur les communautés entourant ces événements, l'impact sur la vie spirituelle des participants, la fluidité du déroulement quotidien de l'évènement, on commence à comprendre le chemin parcouru par les Explorateurs depuis leurs débuts il y presque 60 ans, et comment Dieu continue à nous guider, nous diriger, et nous instruire tous, Explorateurs comme employés. « Par la grâce de Dieu ... »
 
-## 4. Autour du monde 
+# 4. Autour du monde 
 
-### Argentine 
+## Argentine 
 
 L'histoire des Explorateurs en Argentine se base sur des extraits traduits d'un papier écrit par Arturo Finis à River Plate Adventist University, à San Martin, en Argentine, en 1998. 
 
@@ -184,7 +184,7 @@ Pendant les années 50, l'Union Australe développa un programme solide dans les
 
 John Youngberg était un jeune missionnaire travaillant au sud du Chili. Avant de servir à l'étranger, il avait été actif en tant que directeur du club des Explorateurs dans son église locale en Amérique du Nord, et quand il arriva au Chili, il continua à organiser des clubs dans les églises où il servait. Il développa un plan qu'il appela « formation satellite » : il choisirait une église ayant une position centrale pour y créer un club qui servirait alors de modèle que les églises environnantes suivraient. Ce système eut beaucoup de succès, notamment quand le club qui servait de modèle fut associé à un établissement d'enseignement. Le directeur de la jeunesse de la fédération du Centre de l'Argentine, Enrique Block, invita Youngberg à venir présenter cette idée à River Plate College. Ainsi, en 1960, la formation fut présentée et en milieu semaine, le premier club des Explorateurs organisa sa première réunion avec environ 80 enfants. Dès le sabbat suivant, le club fut présenté à l'église, les membres portant déjà l'uniforme complet ! Peu de temps après, Youngberg voyagea en Uruguay et au Brésil, et il aida à établir les premiers clubs dans ces pays. Au River Plate College, le directeur du club se nommait Lucas Schulz. Outre l'enseignement du programme des classes et des distinctions, les premières activités comprenaient la fabrication de tentes pour le club, dans la mesure où de tels articles n'existaient pas ou étaient trop chers. En 1962, le club lança un petit journal qu'il appela « El Conquistador » [Le conquérant] dans lequel les évènements à venir étaient promus, et au sein duquel les membres du club pouvaient s'exercer au journalisme. Vers 1966, le club avait recueilli des fonds, fait des travaux de construction, et disposait désormais de son propre bâtiment pour se réunir. 
 
-### Allemagne 
+## Allemagne 
 
 *Les débuts à Solingen* 
 
@@ -265,7 +265,7 @@ Fourragères et domaines de responsabilité :
 | BLEU/NOIR | Responsable adjoint |
 | VERT | Adjoint ayant des responsabilités spécifiques |
 
-### Inde 
+## Inde 
 
 L'Inde rapporte un bref résumé de ses « premières fois » dans le monde des Explorateurs : 
 
@@ -280,7 +280,7 @@ L'Inde rapporte un bref résumé de ses « premières fois » dans le monde des 
 | 1979 | Premier terrain de camping en possession de la Division à Machilipatnam |
 | 1995 | Troisième camporée à l'échelle de la Division à Hyderabad |
 
-### Histoire des Explorateurs du Kenya
+## Histoire des Explorateurs du Kenya
 
 Selon Stanley Nyachieng'a Barini, directeur de la jeunesse de longue date des fédérations du Sud du Kenya et de Nyamira, le Pasteur Jacobs de la Conférence Générale introduisit les classes progressives au Kenya en 1962 pendant un séminaire de la jeunesse, au Centre de la jeunesse adventiste de Watamu. 
 
@@ -298,7 +298,7 @@ Le club des Explorateurs est on ne peut plus vivant au Kenya ; il a maintenant d
 
 Les individus qui contribuerent de fanon exceptionnelle a la croissance du mouvement des Explorateurs au Kenya sont : Nathan Oyiengo, Alison Moronya, David Wanjekeche, David Mbwaro, Blasious Ruguri, Peter Geoge Odero, Meshach Muga, Festus Njagi, Joses Sipakati, Jared Oyier, Johnson Othoo, Kenneth Bushnell, Arthur Bushnell, Gilbert Ojwang, Baya, Caesar Wamalika, John Ngunyi, Fares Ogillo, Musyoka Paul Muasya, Abiud Ekirapa, Maina Jackson, Mang'aa David, Tonny Ndiema, James Machoka, Mouko Ezekiel, Marundu Alfred, Russel Otieno, Willie Ngugi, Washington Ngesa, Fred Ogoi, et Paul Kiage entre autres. 
 
-### Lettonie 
+## Lettonie 
 
 En 1994, nous trouvâmes une annonce au sujet du camporée de la Division transeuropéenne (TED en anglais) en Suède. Nous n'avions aucune idée de ce qu'était le club des Explorateurs, mais nous avions seulement compris que c'était quelque chose pour les adolescents. Comme la Suède n'était pas loin de la Lettonie, nous décidâmes de participer à cet événement. Nous prîmes 20 adolescents de nos classes de l'École du sabbat et nous rendirent à Kapparbo en Suède. Là-bas, je compris qu'il s'agissait d'une organisation merveilleuse et influente pour les adolescents. J'étais sûre que nous avions aussi besoin d'un club des Explorateurs en Lettonie. 
 
@@ -312,14 +312,14 @@ En 1998, nous fondâmes le premier club des Explorateurs à Riga. Quatre années
 Équipe de coordination De gauche à droite : . Juris Pasternaks, Astra Kukulite, Dzintars Vaivods, Inta Jakosborne 
 Le premier camp d'Explorateurs en Lettonie eut lieu à Cesis, en 1998. En juillet de la même année, nous nous rendirent au camporée de la Division transeuropéenne en Norvège, où nous rencontrèrent Robert Holbrook. Un développement rapide commença alors. L'été suivant, il visita notre deuxième camporée et nous organisâmes notre première session de formation du person-nel. Puis, plus tard, il envoya John Swafford avec l'équipe de la fédération de Géorgie-Cumberland. En peu de temps, ils aidèrent à organiser le travail avec les Explorateurs pour qu'il fût plus efficace. Nous sommes très reconnaissants à John et à son équipe pour l'excellent travail qu'ils ont accompli en Lettonie. 
 
-### AJV-Scouting (Scoutisme de l'Alliance de la Jeunesse Adventiste) aux Pays-Bas 
+## AJV-Scouting (Scoutisme de l'Alliance de la Jeunesse Adventiste) aux Pays-Bas 
 
 En 1965, le responsable national de la jeunesse, Karel van Oossanen, avec l'aide du responsable des jeunes Piet van Drongelen, introduisit le scoutisme dans l'église adventiste des Pays-Bas. Jusqu'à cette époque, des tentatives pour incor-porer le programme MV fourni par la Conférence Générale dans l'église adven-tiste néerlandaise avaient été entreprises, mais elles ne s'étaient pas avérées très fructueuses. D'une certaine manière, le programme MV ne semblait pas s'adapter à la culture néerlandaise. Lorsque Karel van Oossanen réalisa que le programme MV présentait des similitudes avec le programme Boy Scouts of America, il décida qu'il serait intéressant d'essayer d'adapter cette idée dans un contexte néerlandais et de développer un programme de scoutisme adven-tiste basé sur celui offert par Scouting Nederland, l'organisation de scoutisme néerlandaise. En outre, il découvrit qu'il était courant aux Pays-Bas que des groupes de scouts liés à d'autres églises soient associés à Scouting Nederland. C'est la raison pour laquelle il décida de commencer une expérience dans l'église adventiste néerlandaise avec AJV-Scouting (Scoutisme de l'Alliance de la Jeunesse Adventiste), afin de découvrir si le scoutisme pouvait vrai-ment être utilisé comme une partie du programme de la jeunesse adventiste néerlandaise.
 
 Malgré le fait que certains membres de l'église se soient opposés au scoutisme en raison de ses éléments militaires, le premier camporée national fut un succès. Au cours des années qui suivirent, il sembla absolument possible d'obtenir un mélange approprié d'éléments scouts et d'éléments religieux (adventistes). De nombreux jeunes membres rejoignirent l'association et AJV-Scouting devint une partie substantielle du département de la jeunesse adventiste néerlandaise. 
 Pour cette raison, les néerlandais participent au programme de scoutisme plutôt qu'au programme des Explorateurs. Il existe des différences intéres-santes entre les scouts néerlandais et les Explorateurs. Par exemple, vous pourrez reconnaître les scouts néerlandais à leurs uniformes, leurs différents foulards et badges. Une caractéristique intéressante du scoutisme adventiste néerlandais est que chaque club porte le nom d'un pionnier adventiste. Bien sûr, la plupart des différences sont liées à l'aspect extérieur ; vous pouvez être sûr que les scouts adventistes néerlandais chérissent les mêmes croyances et la même mission que les Explorateurs. Après tout, de même que les Explorateurs, les scouts néerlandais font partie de la jeunesse adventiste. 
 
-### Roumanie 
+## Roumanie 
 
 Il est difficile de croire qu'avant 1990, très peu de personnes de l'église rouma-ine avait entendu parler des Explorateurs. Cela est dû au fait que, sous le régime communiste, parallèlement aux libertés générales, toute activité ecclé-siastique pour les enfants et les jeunes était interdite, y compris l'École du sabbat. Avant l'installation du régime communiste en 1947, l'Église roumaine était à peu près en phase avec l'Église mondiale en ce qui concernait le travail avec les jeunes, y compris les classes progressives qui firent ensuite partie du programme des Explorateurs. Tout cela fut néanmoins oublié pendant les longues et sombres années du communisme. 
 
@@ -379,7 +379,7 @@ L'organisation des Explorateurs fut aussi largement reconnue pour son rôle dans
 
 Ces grands projets n'étaient en fait que quelques-uns parmi des centaines d'autres projets de mission (éducatifs, écologiques, sociaux et évangéliques) semblables à ceux que les Explorateurs mènent dans le monde entier. Mais les Explorateurs roumains pensent que ce n'est qu'un début, car le Seigneur a promis que « celui qui croit en moi fera aussi les oeuvres que je fais, et il en fera de plus grandes » ( Jean 14.12, LSG), et ils sont donc, comme le dit leur salutation : « Pour le Seigneur, toujours prêts ». 
 
-### Afrique du Sud 
+## Afrique du Sud 
 
 La fédération de Bonne-Espérance était aupara-vant connue sous le nom de Cape Field. Le club des Explorateurs de la fédération de Bonne-Espérance fut créé en janvier 1965. Sept ans auparavant, en 1958, le premier cours de formation des Explorateurs fut organisé sous la direction du pasteur J. Human. La soeur Kohen, épouse du pasteur A. Kohen, fut l'une des premières à terminer le cours dans la banlieue d'Athlone. 
 
@@ -397,7 +397,7 @@ Le Retreat Club, sous la direction de Barbara E. Africa, était le plus grand cl
 
 En 1974, la fédération comptait 42 clubs et un peu plus de 1200 Explorateurs. La première fanfare venait également d'être organisée. À cette époque, deux fédérations étaient en activité, l'une à Johannesbourg, et l'autre incluant la péninsule du Cap et Boland. 
 
-### Suède 
+## Suède 
 
 Selon les premiers documents disponibles, Rueben Engstrom, immigrant suédois vivant aux États-Unis d'Amérique, retourna en Suède en 1929 et commença à travailler avec les jeunes. Il devint directeur de la jeunesse de l'Est de l'Union nordique (Suède et parties de la Finlande parlant le suédois) de 1935 à 1938. Vers 1935, Rueben publia la première brochure sur le ministère des juniors en Suède. Le premier guide des Jeunes Missionnaires Volontaires ( JMV) parut en 1938, traduit de l'anglais et adapté aux besoins suédois. Ce manuel comprenait les deux classes des JMV « Vanner » et « Ledsagare » et les deux niveaux des Camarades appelés « Kamrater » et « Master Ledare ». En 1938, l'ancien Engstrom retourna aux États-Unis où il travailla jusqu'à sa retraite à la fin des années 1950. Le pasteur David Karlsson suivit les traces d'Engstrom en tant que directeur de la jeunesse de l'Union de 1937 à 1944. Il écrivit dans ses mémoires qu'en 1939, lors d'un congrès de la jeunesse tenu au Danemark, dix jeunes Suédois furent investis en tant que Chefs-Guides. Il y eut une note de tristesse au congrès, lorsque plusieurs délégués de Pologne durent partir plus tôt car l'Allemagne avait envahi leur pays ; cela marqua le début de la Seconde Guerre mondiale. 
 
@@ -407,7 +407,7 @@ Les Explorateurs, tels qu'on les connaît aujourd'hui, furent introduits en Suè
 
 En 1971, la Division organisa son premier camporée à l'échelle de la Divi-sion au camp suédois de Vasterang, avec le pasteur Sundqvist désormais à sa tête, en tant que directeur de la jeunesse de la Division. Aujourd'hui, il y a environ 200 Explorateurs en Suède. Chaque année, une demi-douzaine de dirigeants obtient le titre de Chef-Guide. Leurs activités, leurs distinctions et leurs camps peuvent tous être trouvés sur leur site Web à l'adresse suivante : adventist.se 
 
-### Trinidad et Tobago 
+## Trinidad et Tobago 
 
 Trinidad et Tobago, constitué de deux îles de la mer des Caraïbes, avait été activement impliqué dans les Sociétés des JMV dès leurs débuts avec des programmes complets dans les années 30 et tout au long des années 40. Les membres portaient même les uniformes officiels, vert pour les filles et kaki pour les garçons, comme montrés dans les anciens manuels. Il fut donc facile de faire la transition pour démarrer les clubs des Explorateurs dès que l'idée fut avancée. 
 
@@ -415,7 +415,7 @@ Cette opportunité se manifesta en février 1954 quand Laurence Skinner visita l
 
 En 1972, le pays reçut la visite d'un grand nombre d'Explorateurs afro-amér-icains qui campaient sur le terrain de camping de la fédération locale à Macqueripe. L'avantage inattendu de cette visite fut la formation de la première troupe de tambours de Trinidad. Un soir, on fit pression sur les membres du comité d'église de San Juan pour qu'ils récoltent des fonds pour les instru-ments qui furent alors achetés des mains des Explorateurs en visite. Cela ajouta une toute nouvelle dimension au club des Explorateurs sur la nation insulaire, particulièrement car cela se déroula sous les yeux du public. 
 
-### Autres pays européens 
+## Autres pays européens 
 
 ***Suisse***
 
@@ -442,7 +442,7 @@ Un des pays ayant introduit le plus récemment le club des Explorateurs, dès la
 
 Commença en 1939 en tant que JMV avec comme dirigeant Sylvain Meyer. On les appelait des « Cadets ». 
 
-### Engagement des Explorateurs dans différentes langues : 
+## Engagement des Explorateurs dans différentes langues : 
 
 ***Anglais***
 By the Grace of God, 
@@ -495,7 +495,7 @@ Saya akan menjadi suci,menjadi pengasih dan menjadi benar.
 Saya akan berpegang teguh kepada undang-undang pathfinder. 
 Saya akan menjadi pelayan Allah dan menjadi sahabat kepada manusia. 
 
-### Loi des Explorateurs dans différentes langues :
+## Loi des Explorateurs dans différentes langues :
 
 ***Anglais***
 The Pathfinder Law Is for Me to 
@@ -585,7 +585,7 @@ Berjalan perlahan-lahan dalam kaabah.
 Menyimpan satu nyanyian dalam hati saya. 
 Melaksanakan suruhan bagi Allah. 
 
-### Chant pour les filles Explorateurs 
+## Chant pour les filles Explorateurs 
 
 Un point historique intéressant datant de 1930 : ce club des Explorateurs débuta dans le foyer de Theron Johnston. La famille avait un chant spécial écrit par Ione Martin pour les filles. Il fut mis sur l'air de « O, Columbia the Gem of the Ocean. » Les mots le composant incluaient tous les éléments de l'Engagement et de la Loi des JMV : 
 
@@ -637,7 +637,7 @@ Just watch for their big, pleasant smile.
 
 ***Répéter refrain***
 
-### Évènements marquants des clubs des Explorateurs 
+## Évènements marquants des clubs des Explorateurs 
 
 En mission pour Dieu 
 
@@ -732,11 +732,11 @@ La Division transeuropéenne organisa un camporée à Ommen, aux Pays-Bas.
 2017 Le camporée de la Division d'Afrique de l'Est fut organisé en Tanzanie. 
 2019 La Division interaméricaine organisa le 4ème camporée des Explorateurs en République Dominicaine. Andrés Peralta devient le Sème directeur mondial des Explorateurs. La Division sud-américaine organisa deux camporées consécutivement : Alpha, et Oméga à Barretos, Sao Paulo, au Brésil. Le camporée Chosen [Choisis] fut organisé à Oshkosh, dans le Wisconsin. 
 
-Dirigeants mondiaux les Explorateurs : Notes biographiques 
+# 5. Dirigeants mondiaux les Explorateurs : Notes biographiques 
 
 Les personnes élues pour diriger l'organisation des Explorateurs de l'Église adventiste du septième jour sont considérées comme des directeurs adjoints de la jeunesse au sein du département de la jeunesse de la Conférence Générale. Dans la mesure où ils ont la responsabilité spécifique, basée sur leur expertise (souvent en plus d'autres responsabilités qui leur sont attribuées), de maintenir la concentration et la direction des Explorateurs dans le monde, ils portent, par vote du comité de la Conférence Générale, le titre de directeurs mondiaux des Explorateurs. Dans un sens plus large, ils sont responsables au sein du département des ministères de la jeunesse de tous les ministères enfants-adolescents dans l'église. 
 
-Laurence Skinner (1946 - [1950] — 1962) 
+## Laurence Skinner (1946 - [1950] — 1962) 
 
 Laurence Skinner fut le dirigeant de la transition entre le rôle de directeur mondial de la jeunesse et celui de directeur mondial du club des Explorateurs. De 1946 à 1950, il fut directeur mondial de la jeunesse et à partir de 1950, il devint directeur mondial du club des Explorateurs. 
 
@@ -749,7 +749,7 @@ En 1930, il devint directeur de la jeunesse de la fédération du Sud-Est de la 
 L'ancien Skinner aimait vraiment le Seigneur, et il aimait prier pour et avec les jeunes, et avec les dirigeants de la jeunesse dans le monde. Il aimait collectionner des pièces dans le cadre de ses voyages, et il aimait également observer les oiseaux. Sa foi chrétienne et son amour pour le Seigneur se manifestèrent dans tout ce qu'il dit et fit tout au long de sa vie. L'ancien 
 Skinner mourut le 10 juillet 2002 au sud de la Californie. 
 
-John Hancock (1962-1970) 
+## John Hancock (1962-1970) 
 
 John Hancock naquit en Californie le 08 août 1917. Il eut une enfance très intéressante au cours de laquelle son amour de l'art et de la musique furent apparents dès son plus jeune âge. Il apprit à jouer de l'accordéon, il faisait souvent des croquis, et il paya lui-même ses études en faisant du design et du dessin pour diverses personnes et entreprises. 
 
@@ -763,7 +763,7 @@ Il disait souvent parler le langage universel de la musique ; ainsi, ce n'était
 
 L'ancien Hancock et sa femme, Helen, eurent trois enfants, deux garçons et une fille. Quand il mourut le 22 février 2001, il laissa derrière lui une famille aimante et une multitude d'amis et de souvenirs. Attendant tous avec impa-tience le jour lumineux où nous serons tous « sains et saufs dans les bras de Jésus » (ou « Safe in His Hands » : Chant-thème écrit par John pour le Congrès de la jeunesse en 1962). 
 
-Leo Ranzolin (1970-1980) 
+## Leo Ranzolin (1970-1980) 
 
 « C'était en 1952, une année mémorable de ma vie ! » est la façon dont Leo débuta ses notes biographiques qui figurèrent dans le 4ème numéro de Youth Ministry Accent [Accent sur le ministère de la jeunesse] en 2004. Il devint adventiste du septième jour en 1948 et fréquenta le Brazil Adventist College en 1949 pour préparer un diplôme en éducation (cela s'appelait « l'école normale » à l'époque) qu'il obtint en 1951. A partir de là, il s'inscrivit en tant qu'étudiant en seconde année de théologie et eut son diplôme (de nouveau) en 1954. Ce fut, cependant, une année spéciale parce qu'on lui demanda d'être le dirigeant de la Société des MV de l'établissement, un poste que l'on propo-sait normalement uniquement aux étudiants en théologie de cycle supérieur. Cette demande marqua le début de sa vie dans le ministère de la jeunesse. Leo utilisa son expérience en tant que dirigeant de la Société des MV du collège pour expérimenter un certain nombre de méthodes de sensibilisation des jeunes, et il mit en place un groupe de prière matinal qui se réunissait quotidiennement dans les bois sous le campus. Il devait par la suite lire la déclaration du Président de la Conférence générale R.R. Figure faite dans le cadre de la célébration de la jeunesse tenue à Mt. Vernon (Ohio) et qui disait que notre tâche devait être de « préparer les jeunes pour la vie ». Cela le guida dans son ministère au cours des décennies suivantes. 
 
@@ -771,7 +771,7 @@ Quand en 1955, il commença son travail de pasteur, il mit en œuvre les idées 
 
 Suite à la retraite de l'ancien Hancock en 1980, Leo devint directeur mondial de la jeunesse, et en 1985 il fut élu pour servir dans l'administration en tant que collaborateur dans le domaine du secrétariat jusqu'à 1990, quand il rejoignit l'équipe des Vice-Présidents de la Conférence Générale. Bien qu'il fût officiellement hors du ministère de la jeunesse, dans sa capacité de VP de l'Église mondiale, Leo continua à s'impliquer en oeuvrant en tant que VP en charge des ministères de la jeunesse, et en ne refusant jamais les invitations à assister aux évènements liés aux jeunes — notamment les camporées, auxquels il continua à participer dans le monde entier, longtemps après sa retraite. 
 
-Mike Stevenson (1980- 1985) 
+## Mike Stevenson (1980- 1985) 
 
 Michael Stevenson naquit le 22 août 1939 à Stellenbosch, Afrique du Sud, d'Ernest J. Stevenson et de Thora Commins Stevenson. Il eut cinq frères, Hugh (décédé), Ernest, Brian, Patrick et Stanley. 
 
@@ -786,7 +786,7 @@ En février 1993, après une lutte héroïque contre le cancer du cerveau, Micha
 
 Des millions de personnes ayant été bénies par le ministère de Stevenson se rappelleront son expression préférée : « N'ayez pas peur, rassurez-vous. » 
 
-Malcolm Allen (1986-1996) 
+## Malcolm Allen (1986-1996) 
 
 Malcolm Allen servit la Conférence générale des adventistes du septième jour en tant que cinquième dirigeant mondial des Explorateurs jusqu'à son retour dans son pays d'origine, l'Australie, où il fut secrétaire de la fédération du sud du Queensland. Il occupa ce poste deux ans avant d'être appelé en tant que président de la fédération de la grande région de Sydney. Il officia en tant que président jusqu'à sa retraite en janvier 2001. Malcolm servit pendant 36 années consécutives dans le ministère des Explorateurs et de la jeunesse. 
 
@@ -800,7 +800,7 @@ Entre 1977 et 1980, Malcolm fut transféré en Nouvelle-Zélande, où il exerça
 
 Au moment de la retraite, Malcolm et sa femme déménagèrent dans un décor rural, dans ce que l'on appelle les Hautes Terres du Sud de la Nouvelle-Galles du Sud, à environ une heure au sud de Sydney. L'ancien Allen prêche toujo-urs dans les églises et lors des réunions de camp, et il accomplit des missions spécifiques pour l'Union australienne. 
 
-Robert Holbrook (1997-2005) 
+## Robert Holbrook (1997-2005) 
 
 Bien que Robert (Bob) soit né aux États-Unis, il vient d'une famille de missionnaires qui remontent jusqu'à quatre générations dans le service diplomatique. Il se considère donc comme une personne à culture mixte et apprécie d'avoir une vision mondiale de la vie. Son père fut pendant longtemps éducateur et administrateur dans l'église. Sa mère fut peut-être la femme la plus reconnue dans l'église à part Ellen "White. Son fils, Rob, est linguiste, Hans est naturaliste, et Rolf est conseiller pour la jeunesse. 
 
@@ -814,7 +814,9 @@ Comme on peut s'y attendre, Bob aime tout ce qui se rapporte aux grands espaces,
 
 Bob apprécie toujours autant d'aider les jeunes à trouver le chemin étroit par lequel Christ nous demande tous de passer. Il reconnaît qu'il s'agit du travail le plus important dans lequel les adultes peuvent s'impliquer, et il est inquiet dans la mesure où si peu de personnes semblent réaliser l'importance de cela, et l'impact que les adultes peuvent avoir et ont en effet sur la jeunesse, qu'ils le veuillent ou pas. 
 
-Jonatan Tejel Subirada (2005-2016) Jonatan Tejel naquit le 09 avril 1966 à Alcoy d'An-dres et de Josefina Tejel. Il fut élevé dans un foyer adventiste. Pendant son enfance, il déménagea d'une ville à l'autre jusqu'à son arrivée à Madrid où il demeura tout au long de son adolescence. 
+## Jonatan Tejel Subirada (2005-2016) 
+
+Jonatan Tejel naquit le 09 avril 1966 à Alcoy d'An-dres et de Josefina Tejel. Il fut élevé dans un foyer adventiste. Pendant son enfance, il déménagea d'une ville à l'autre jusqu'à son arrivée à Madrid où il demeura tout au long de son adolescence. 
 
 Il fut baptisé par son père, Andres Tejel, le 26 décembre 1981. Il fréquenta le Campus adventiste de Sagunto. Il fréquenta également le Campus de Collonges (France) où il obtint son diplôme en théologie en 1995. 
 
@@ -823,20 +825,10 @@ En 1994, il rencontra et épousa Daniela Sciarabba. Ils ont deux filles, Astrid 
 En 1996, il débuta un stage sous la supervision du pasteur Rafael Marti dans l'église adventiste d'Urgell (Barcelone). En 1998, il fut élu comme directeur adjoint de la jeunesse de l'Union espagnole. Il servit également deux ans en tant que directeur adjoint et pasteur de l'église de Timoneda. En 2002, il fut élu directeur des ministères de la jeunesse de l'Union espagnole. 
 En octobre 2005, pendant la Session de la Conférence Générale, Jonatan fût élu directeur mondial des Explorateurs. 
 
-Andrés Peralta (2017 -) 
+## Andrés Peralta (2017 -) 
 
 Dr Andrés Peralta est un pasteur ordonné, né à Saint Domingue, en République Dominicaine. Il répondit à l'appel de Dieu et s'inscrivit à l'Université adventiste des Antilles à Porto-Rico, où il obtint un baccalauréat en arts en théologie biblique. Après avoir fini ses études dans cette université, il s'inscrivit à l'université Andrews où il acquit sa maîtrise en théologie. Tandis qu'il était à l'université Andrews, il exerçait simultanément la fonction de pasteur des jeunes dans les églises adventistes hispanophones de Maranatha et de Grand Rapids Central, à Grand Rapids, dans le Michigan. 
 
 Après avoir terminé sa maîtrise, le Dr Peralta réjoignit la fédération des Adventistes du septième jour de la grande région de New York où il œuvra pendant dix ans. Il occupa la fonction de pasteur de district avant de devenir directeur des ministères de la jeunesse. Alors qu'il servait dans la fédération de la grande région de New York, il obtint son doctorat de théologie de l'université Andrews sur le thème du travail en équipe et du ministère de la jeunesse urbaine. Le Dr Peralta a été mandaté par la Marine américaine et la Division nord-américaine des Adventistes du septième jour pour officier en tant que Lieutenant aumônier de réserve. 
 
 Avec passion et en pratiquant un leadership attentif, le Dr Andrés Peralta donne aux enfants, aux jeunes, aux jeunes adultes et aux adultes les moyens de grandir en Christ en considérant Jésus comme le modèle ultime. Il est marié à l'amour de sa vie, Martha. Leur union a été bénie par la venue de leurs filles chéries, Melany Abigai et Amy Marlizel. Il aime lire, écrire, voyager, faire du sport, et passer des moments de qualité avec sa famille.
-
-
-
-
-
-
-
-
-
-
